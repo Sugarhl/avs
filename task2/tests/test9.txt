@@ -1,0 +1,104 @@
+Input size of array (300 >= x > 0): 50
+
+arr[0]: 32
+arr[1]: -76
+arr[2]: 85
+arr[3]: 83
+arr[4]: 54
+arr[5]: 83
+arr[6]: -39
+arr[7]: 47
+arr[8]: -83
+arr[9]: -85
+arr[10]: -2
+arr[11]: 19
+arr[12]: -78
+arr[13]: -82
+arr[14]: 88
+arr[15]: 13
+arr[16]: 49
+arr[17]: -14
+arr[18]: 2
+arr[19]: 0
+arr[20]: 74
+arr[21]: 72
+arr[22]: -21
+arr[23]: -11
+arr[24]: -70
+arr[25]: -81
+arr[26]: 32
+arr[27]: -47
+arr[28]: -68
+arr[29]: -87
+arr[30]: 77
+arr[31]: 42
+arr[32]: 58
+arr[33]: 36
+arr[34]: -93
+arr[35]: 6
+arr[36]: -36
+arr[37]: 78
+arr[38]: -31
+arr[39]: 38
+arr[40]: -93
+arr[41]: 1
+arr[42]: 83
+arr[43]: 6
+arr[44]: 1
+arr[45]: -35
+arr[46]: 63
+arr[47]: -39
+arr[48]: 57
+arr[49]: 93
+
+Arrays:
+arr[0] = -32     new_arr[0] = -93
+arr[1] = -76     new_arr[1] = -76
+arr[2] = 85     new_arr[2] = 85
+arr[3] = 83     new_arr[3] = 83
+arr[4] = 54     new_arr[4] = 54
+arr[5] = 83     new_arr[5] = 83
+arr[6] = -39     new_arr[6] = -39
+arr[7] = 47     new_arr[7] = 47
+arr[8] = -83     new_arr[8] = -83
+arr[9] = -85     new_arr[9] = -85
+arr[10] = -2     new_arr[10] = -2
+arr[11] = 19     new_arr[11] = 19
+arr[12] = -78     new_arr[12] = -78
+arr[13] = -82     new_arr[13] = -82
+arr[14] = 88     new_arr[14] = 88
+arr[15] = 13     new_arr[15] = 13
+arr[16] = 49     new_arr[16] = 49
+arr[17] = -14     new_arr[17] = -14
+arr[18] = 2     new_arr[18] = 2
+arr[19] = 0     new_arr[19] = 0
+arr[20] = 74     new_arr[20] = 74
+arr[21] = 72     new_arr[21] = 72
+arr[22] = -21     new_arr[22] = -21
+arr[23] = -11     new_arr[23] = -11
+arr[24] = -70     new_arr[24] = -70
+arr[25] = -81     new_arr[25] = -81
+arr[26] = 32     new_arr[26] = 32
+arr[27] = -47     new_arr[27] = -47
+arr[28] = -68     new_arr[28] = -68
+arr[29] = -87     new_arr[29] = -87
+arr[30] = 77     new_arr[30] = 77
+arr[31] = 42     new_arr[31] = 42
+arr[32] = 58     new_arr[32] = 58
+arr[33] = 36     new_arr[33] = 36
+arr[34] = -93     new_arr[34] = -93
+arr[35] = 6     new_arr[35] = 6
+arr[36] = -36     new_arr[36] = -36
+arr[37] = 78     new_arr[37] = 78
+arr[38] = -31     new_arr[38] = -31
+arr[39] = 38     new_arr[39] = 38
+arr[40] = -93     new_arr[40] = -32
+arr[41] = 1     new_arr[41] = 1
+arr[42] = 83     new_arr[42] = 83
+arr[43] = 6     new_arr[43] = 6
+arr[44] = 1     new_arr[44] = 1
+arr[45] = -35     new_arr[45] = -35
+arr[46] = 63     new_arr[46] = 63
+arr[47] = -39     new_arr[47] = -39
+arr[48] = 57     new_arr[48] = 57
+arr[49] = 93     new_arr[49] = 93

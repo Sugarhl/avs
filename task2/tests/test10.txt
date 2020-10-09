@@ -1,0 +1,604 @@
+Input size of array (300 >= x > 0): 300
+
+arr[0]: 15
+arr[1]: 21
+arr[2]: 48
+arr[3]: -18
+arr[4]: -62
+arr[5]: 10
+arr[6]: 71
+arr[7]: 47
+arr[8]: 45
+arr[9]: -94
+arr[10]: -2
+arr[11]: 49
+arr[12]: 3
+arr[13]: -70
+arr[14]: 48
+arr[15]: -45
+arr[16]: -67
+arr[17]: 81
+arr[18]: -33
+arr[19]: 70
+arr[20]: 89
+arr[21]: 14
+arr[22]: 72
+arr[23]: -18
+arr[24]: -95
+arr[25]: 44
+arr[26]: -70
+arr[27]: 55
+arr[28]: 47
+arr[29]: 66
+arr[30]: -95
+arr[31]: -39
+arr[32]: -13
+arr[33]: 53
+arr[34]: 43
+arr[35]: 25
+arr[36]: -38
+arr[37]: 14
+arr[38]: -28
+arr[39]: -93
+arr[40]: 20
+arr[41]: 71
+arr[42]: 56
+arr[43]: -77
+arr[44]: -99
+arr[45]: 3
+arr[46]: -22
+arr[47]: -66
+arr[48]: -16
+arr[49]: 45
+arr[50]: -97
+arr[51]: -27
+arr[52]: -41
+arr[53]: 76
+arr[54]: 55
+arr[55]: -35
+arr[56]: 20
+arr[57]: 86
+arr[58]: -81
+arr[59]: -34
+arr[60]: 51
+arr[61]: -76
+arr[62]: 28
+arr[63]: -63
+arr[64]: 78
+arr[65]: -29
+arr[66]: 63
+arr[67]: -60
+arr[68]: 86
+arr[69]: -66
+arr[70]: -53
+arr[71]: 5
+arr[72]: -95
+arr[73]: -97
+arr[74]: 28
+arr[75]: -94
+arr[76]: 6
+arr[77]: -94
+arr[78]: -60
+arr[79]: 91
+arr[80]: 52
+arr[81]: -56
+arr[82]: -37
+arr[83]: -89
+arr[84]: -81
+arr[85]: -82
+arr[86]: -24
+arr[87]: 39
+arr[88]: -97
+arr[89]: -4
+arr[90]: -95
+arr[91]: 55
+arr[92]: 21
+arr[93]: 34
+arr[94]: 92
+arr[95]: -1
+arr[96]: -95
+arr[97]: 55
+arr[98]: 40
+arr[99]: 91
+arr[100]: 90
+arr[101]: 88
+arr[102]: -4
+arr[103]: 95
+arr[104]: 91
+arr[105]: -76
+arr[106]: -99
+arr[107]: -3
+arr[108]: -70
+arr[109]: -58
+arr[110]: -13
+arr[111]: 83
+arr[112]: -14
+arr[113]: 51
+arr[114]: 94
+arr[115]: 6
+arr[116]: 69
+arr[117]: -30
+arr[118]: -55
+arr[119]: 73
+arr[120]: 67
+arr[121]: -49
+arr[122]: 27
+arr[123]: -12
+arr[124]: 85
+arr[125]: 19
+arr[126]: 87
+arr[127]: 91
+arr[128]: -27
+arr[129]: 26
+arr[130]: 81
+arr[131]: -38
+arr[132]: 13
+arr[133]: -24
+arr[134]: -43
+arr[135]: 3
+arr[136]: 1
+arr[137]: -42
+arr[138]: -100
+arr[139]: 32
+arr[140]: 1
+arr[141]: -13
+arr[142]: 14
+arr[143]: 87
+arr[144]: -63
+arr[145]: 8
+arr[146]: -7
+arr[147]: -94
+arr[148]: 79
+arr[149]: 38
+arr[150]: 79
+arr[151]: 45
+arr[152]: 89
+arr[153]: 5
+arr[154]: -68
+arr[155]: 74
+arr[156]: -77
+arr[157]: -81
+arr[158]: 64
+arr[159]: -4
+arr[160]: 46
+arr[161]: 45
+arr[162]: 59
+arr[163]: -42
+arr[164]: -79
+arr[165]: -84
+arr[166]: 62
+arr[167]: 22
+arr[168]: -25
+arr[169]: 62
+arr[170]: -47
+arr[171]: 76
+arr[172]: -51
+arr[173]: 68
+arr[174]: 62
+arr[175]: -14
+arr[176]: -24
+arr[177]: -45
+arr[178]: -8
+arr[179]: -46
+arr[180]: 94
+arr[181]: -29
+arr[182]: 100
+arr[183]: 82
+arr[184]: 76
+arr[185]: -68
+arr[186]: 56
+arr[187]: 99
+arr[188]: -49
+arr[189]: 20
+arr[190]: -5
+arr[191]: 97
+arr[192]: -35
+arr[193]: -46
+arr[194]: -45
+arr[195]: -13
+arr[196]: -30
+arr[197]: -83
+arr[198]: -92
+arr[199]: 45
+arr[200]: 80
+arr[201]: -38
+arr[202]: 20
+arr[203]: -72
+arr[204]: -70
+arr[205]: -18
+arr[206]: 15
+arr[207]: 6
+arr[208]: 37
+arr[209]: -93
+arr[210]: 60
+arr[211]: 30
+arr[212]: -22
+arr[213]: 59
+arr[214]: 12
+arr[215]: -47
+arr[216]: 91
+arr[217]: -32
+arr[218]: -48
+arr[219]: -58
+arr[220]: 89
+arr[221]: 48
+arr[222]: -62
+arr[223]: -47
+arr[224]: -99
+arr[225]: -6
+arr[226]: 40
+arr[227]: -28
+arr[228]: 11
+arr[229]: 49
+arr[230]: -84
+arr[231]: -10
+arr[232]: -89
+arr[233]: 37
+arr[234]: 18
+arr[235]: -59
+arr[236]: -81
+arr[237]: -68
+arr[238]: 48
+arr[239]: 57
+arr[240]: -61
+arr[241]: 8
+arr[242]: -14
+arr[243]: 18
+arr[244]: -33
+arr[245]: 99
+arr[246]: 72
+arr[247]: -42
+arr[248]: -33
+arr[249]: -77
+arr[250]: 0
+arr[251]: -45
+arr[252]: 72
+arr[253]: 39
+arr[254]: 9
+arr[255]: 74
+arr[256]: -68
+arr[257]: -52
+arr[258]: -55
+arr[259]: 43
+arr[260]: 98
+arr[261]: -38
+arr[262]: -68
+arr[263]: -91
+arr[264]: 100
+arr[265]: 51
+arr[266]: -50
+arr[267]: -82
+arr[268]: 83
+arr[269]: 99
+arr[270]: 75
+arr[271]: -78
+arr[272]: 6
+arr[273]: -39
+arr[274]: 41
+arr[275]: 73
+arr[276]: -41
+arr[277]: 12
+arr[278]: -70
+arr[279]: 27
+arr[280]: 35
+arr[281]: 30
+arr[282]: 82
+arr[283]: 7
+arr[284]: -32
+arr[285]: -10
+arr[286]: -20
+arr[287]: 1
+arr[288]: 39
+arr[289]: 26
+arr[290]: -57
+arr[291]: 37
+arr[292]: 88
+arr[293]: -24
+arr[294]: 46
+arr[295]: 88
+arr[296]: -74
+arr[297]: 97
+arr[298]: -95
+arr[299]: -91
+
+Arrays:
+arr[0] = 15     new_arr[0] = -100
+arr[1] = 21     new_arr[1] = 21
+arr[2] = 48     new_arr[2] = 48
+arr[3] = -18     new_arr[3] = -18
+arr[4] = -62     new_arr[4] = -62
+arr[5] = 10     new_arr[5] = 10
+arr[6] = 71     new_arr[6] = 71
+arr[7] = 47     new_arr[7] = 47
+arr[8] = 45     new_arr[8] = 45
+arr[9] = -94     new_arr[9] = -94
+arr[10] = -2     new_arr[10] = -2
+arr[11] = 49     new_arr[11] = 49
+arr[12] = 3     new_arr[12] = 3
+arr[13] = -70     new_arr[13] = -70
+arr[14] = 48     new_arr[14] = 48
+arr[15] = -45     new_arr[15] = -45
+arr[16] = -67     new_arr[16] = -67
+arr[17] = 81     new_arr[17] = 81
+arr[18] = -33     new_arr[18] = -33
+arr[19] = 70     new_arr[19] = 70
+arr[20] = 89     new_arr[20] = 89
+arr[21] = 14     new_arr[21] = 14
+arr[22] = 72     new_arr[22] = 72
+arr[23] = -18     new_arr[23] = -18
+arr[24] = -95     new_arr[24] = -95
+arr[25] = 44     new_arr[25] = 44
+arr[26] = -70     new_arr[26] = -70
+arr[27] = 55     new_arr[27] = 55
+arr[28] = 47     new_arr[28] = 47
+arr[29] = 66     new_arr[29] = 66
+arr[30] = -95     new_arr[30] = -95
+arr[31] = -39     new_arr[31] = -39
+arr[32] = -13     new_arr[32] = -13
+arr[33] = 53     new_arr[33] = 53
+arr[34] = 43     new_arr[34] = 43
+arr[35] = 25     new_arr[35] = 25
+arr[36] = -38     new_arr[36] = -38
+arr[37] = 14     new_arr[37] = 14
+arr[38] = -28     new_arr[38] = -28
+arr[39] = -93     new_arr[39] = -93
+arr[40] = 20     new_arr[40] = 20
+arr[41] = 71     new_arr[41] = 71
+arr[42] = 56     new_arr[42] = 56
+arr[43] = -77     new_arr[43] = -77
+arr[44] = -99     new_arr[44] = -99
+arr[45] = 3     new_arr[45] = 3
+arr[46] = -22     new_arr[46] = -22
+arr[47] = -66     new_arr[47] = -66
+arr[48] = -16     new_arr[48] = -16
+arr[49] = 45     new_arr[49] = 45
+arr[50] = -97     new_arr[50] = -97
+arr[51] = -27     new_arr[51] = -27
+arr[52] = -41     new_arr[52] = -41
+arr[53] = 76     new_arr[53] = 76
+arr[54] = 55     new_arr[54] = 55
+arr[55] = -35     new_arr[55] = -35
+arr[56] = 20     new_arr[56] = 20
+arr[57] = 86     new_arr[57] = 86
+arr[58] = -81     new_arr[58] = -81
+arr[59] = -34     new_arr[59] = -34
+arr[60] = 51     new_arr[60] = 51
+arr[61] = -76     new_arr[61] = -76
+arr[62] = 28     new_arr[62] = 28
+arr[63] = -63     new_arr[63] = -63
+arr[64] = 78     new_arr[64] = 78
+arr[65] = -29     new_arr[65] = -29
+arr[66] = 63     new_arr[66] = 63
+arr[67] = -60     new_arr[67] = -60
+arr[68] = 86     new_arr[68] = 86
+arr[69] = -66     new_arr[69] = -66
+arr[70] = -53     new_arr[70] = -53
+arr[71] = 5     new_arr[71] = 5
+arr[72] = -95     new_arr[72] = -95
+arr[73] = -97     new_arr[73] = -97
+arr[74] = 28     new_arr[74] = 28
+arr[75] = -94     new_arr[75] = -94
+arr[76] = 6     new_arr[76] = 6
+arr[77] = -94     new_arr[77] = -94
+arr[78] = -60     new_arr[78] = -60
+arr[79] = 91     new_arr[79] = 91
+arr[80] = 52     new_arr[80] = 52
+arr[81] = -56     new_arr[81] = -56
+arr[82] = -37     new_arr[82] = -37
+arr[83] = -89     new_arr[83] = -89
+arr[84] = -81     new_arr[84] = -81
+arr[85] = -82     new_arr[85] = -82
+arr[86] = -24     new_arr[86] = -24
+arr[87] = 39     new_arr[87] = 39
+arr[88] = -97     new_arr[88] = -97
+arr[89] = -4     new_arr[89] = -4
+arr[90] = -95     new_arr[90] = -95
+arr[91] = 55     new_arr[91] = 55
+arr[92] = 21     new_arr[92] = 21
+arr[93] = 34     new_arr[93] = 34
+arr[94] = 92     new_arr[94] = 92
+arr[95] = -1     new_arr[95] = -1
+arr[96] = -95     new_arr[96] = -95
+arr[97] = 55     new_arr[97] = 55
+arr[98] = 40     new_arr[98] = 40
+arr[99] = 91     new_arr[99] = 91
+arr[100] = 90     new_arr[100] = 90
+arr[101] = 88     new_arr[101] = 88
+arr[102] = -4     new_arr[102] = -4
+arr[103] = 95     new_arr[103] = 95
+arr[104] = 91     new_arr[104] = 91
+arr[105] = -76     new_arr[105] = -76
+arr[106] = -99     new_arr[106] = -99
+arr[107] = -3     new_arr[107] = -3
+arr[108] = -70     new_arr[108] = -70
+arr[109] = -58     new_arr[109] = -58
+arr[110] = -13     new_arr[110] = -13
+arr[111] = 83     new_arr[111] = 83
+arr[112] = -14     new_arr[112] = -14
+arr[113] = 51     new_arr[113] = 51
+arr[114] = 94     new_arr[114] = 94
+arr[115] = 6     new_arr[115] = 6
+arr[116] = 69     new_arr[116] = 69
+arr[117] = -30     new_arr[117] = -30
+arr[118] = -55     new_arr[118] = -55
+arr[119] = 73     new_arr[119] = 73
+arr[120] = 67     new_arr[120] = 67
+arr[121] = -49     new_arr[121] = -49
+arr[122] = 27     new_arr[122] = 27
+arr[123] = -12     new_arr[123] = -12
+arr[124] = 85     new_arr[124] = 85
+arr[125] = 19     new_arr[125] = 19
+arr[126] = 87     new_arr[126] = 87
+arr[127] = 91     new_arr[127] = 91
+arr[128] = -27     new_arr[128] = -27
+arr[129] = 26     new_arr[129] = 26
+arr[130] = 81     new_arr[130] = 81
+arr[131] = -38     new_arr[131] = -38
+arr[132] = 13     new_arr[132] = 13
+arr[133] = -24     new_arr[133] = -24
+arr[134] = -43     new_arr[134] = -43
+arr[135] = 3     new_arr[135] = 3
+arr[136] = 1     new_arr[136] = 1
+arr[137] = -42     new_arr[137] = -42
+arr[138] = -100     new_arr[138] = 15
+arr[139] = 32     new_arr[139] = 32
+arr[140] = 1     new_arr[140] = 1
+arr[141] = -13     new_arr[141] = -13
+arr[142] = 14     new_arr[142] = 14
+arr[143] = 87     new_arr[143] = 87
+arr[144] = -63     new_arr[144] = -63
+arr[145] = 8     new_arr[145] = 8
+arr[146] = -7     new_arr[146] = -7
+arr[147] = -94     new_arr[147] = -94
+arr[148] = 79     new_arr[148] = 79
+arr[149] = 38     new_arr[149] = 38
+arr[150] = 79     new_arr[150] = 79
+arr[151] = 45     new_arr[151] = 45
+arr[152] = 89     new_arr[152] = 89
+arr[153] = 5     new_arr[153] = 5
+arr[154] = -68     new_arr[154] = -68
+arr[155] = 74     new_arr[155] = 74
+arr[156] = -77     new_arr[156] = -77
+arr[157] = -81     new_arr[157] = -81
+arr[158] = 64     new_arr[158] = 64
+arr[159] = -4     new_arr[159] = -4
+arr[160] = 46     new_arr[160] = 46
+arr[161] = 45     new_arr[161] = 45
+arr[162] = 59     new_arr[162] = 59
+arr[163] = -42     new_arr[163] = -42
+arr[164] = -79     new_arr[164] = -79
+arr[165] = -84     new_arr[165] = -84
+arr[166] = 62     new_arr[166] = 62
+arr[167] = 22     new_arr[167] = 22
+arr[168] = -25     new_arr[168] = -25
+arr[169] = 62     new_arr[169] = 62
+arr[170] = -47     new_arr[170] = -47
+arr[171] = 76     new_arr[171] = 76
+arr[172] = -51     new_arr[172] = -51
+arr[173] = 68     new_arr[173] = 68
+arr[174] = 62     new_arr[174] = 62
+arr[175] = -14     new_arr[175] = -14
+arr[176] = -24     new_arr[176] = -24
+arr[177] = -45     new_arr[177] = -45
+arr[178] = -8     new_arr[178] = -8
+arr[179] = -46     new_arr[179] = -46
+arr[180] = 94     new_arr[180] = 94
+arr[181] = -29     new_arr[181] = -29
+arr[182] = 100     new_arr[182] = 100
+arr[183] = 82     new_arr[183] = 82
+arr[184] = 76     new_arr[184] = 76
+arr[185] = -68     new_arr[185] = -68
+arr[186] = 56     new_arr[186] = 56
+arr[187] = 99     new_arr[187] = 99
+arr[188] = -49     new_arr[188] = -49
+arr[189] = 20     new_arr[189] = 20
+arr[190] = -5     new_arr[190] = -5
+arr[191] = 97     new_arr[191] = 97
+arr[192] = -35     new_arr[192] = -35
+arr[193] = -46     new_arr[193] = -46
+arr[194] = -45     new_arr[194] = -45
+arr[195] = -13     new_arr[195] = -13
+arr[196] = -30     new_arr[196] = -30
+arr[197] = -83     new_arr[197] = -83
+arr[198] = -92     new_arr[198] = -92
+arr[199] = 45     new_arr[199] = 45
+arr[200] = 80     new_arr[200] = 80
+arr[201] = -38     new_arr[201] = -38
+arr[202] = 20     new_arr[202] = 20
+arr[203] = -72     new_arr[203] = -72
+arr[204] = -70     new_arr[204] = -70
+arr[205] = -18     new_arr[205] = -18
+arr[206] = 15     new_arr[206] = 15
+arr[207] = 6     new_arr[207] = 6
+arr[208] = 37     new_arr[208] = 37
+arr[209] = -93     new_arr[209] = -93
+arr[210] = 60     new_arr[210] = 60
+arr[211] = 30     new_arr[211] = 30
+arr[212] = -22     new_arr[212] = -22
+arr[213] = 59     new_arr[213] = 59
+arr[214] = 12     new_arr[214] = 12
+arr[215] = -47     new_arr[215] = -47
+arr[216] = 91     new_arr[216] = 91
+arr[217] = -32     new_arr[217] = -32
+arr[218] = -48     new_arr[218] = -48
+arr[219] = -58     new_arr[219] = -58
+arr[220] = 89     new_arr[220] = 89
+arr[221] = 48     new_arr[221] = 48
+arr[222] = -62     new_arr[222] = -62
+arr[223] = -47     new_arr[223] = -47
+arr[224] = -99     new_arr[224] = -99
+arr[225] = -6     new_arr[225] = -6
+arr[226] = 40     new_arr[226] = 40
+arr[227] = -28     new_arr[227] = -28
+arr[228] = 11     new_arr[228] = 11
+arr[229] = 49     new_arr[229] = 49
+arr[230] = -84     new_arr[230] = -84
+arr[231] = -10     new_arr[231] = -10
+arr[232] = -89     new_arr[232] = -89
+arr[233] = 37     new_arr[233] = 37
+arr[234] = 18     new_arr[234] = 18
+arr[235] = -59     new_arr[235] = -59
+arr[236] = -81     new_arr[236] = -81
+arr[237] = -68     new_arr[237] = -68
+arr[238] = 48     new_arr[238] = 48
+arr[239] = 57     new_arr[239] = 57
+arr[240] = -61     new_arr[240] = -61
+arr[241] = 8     new_arr[241] = 8
+arr[242] = -14     new_arr[242] = -14
+arr[243] = 18     new_arr[243] = 18
+arr[244] = -33     new_arr[244] = -33
+arr[245] = 99     new_arr[245] = 99
+arr[246] = 72     new_arr[246] = 72
+arr[247] = -42     new_arr[247] = -42
+arr[248] = -33     new_arr[248] = -33
+arr[249] = -77     new_arr[249] = -77
+arr[250] = 0     new_arr[250] = 0
+arr[251] = -45     new_arr[251] = -45
+arr[252] = 72     new_arr[252] = 72
+arr[253] = 39     new_arr[253] = 39
+arr[254] = 9     new_arr[254] = 9
+arr[255] = 74     new_arr[255] = 74
+arr[256] = -68     new_arr[256] = -68
+arr[257] = -52     new_arr[257] = -52
+arr[258] = -55     new_arr[258] = -55
+arr[259] = 43     new_arr[259] = 43
+arr[260] = 98     new_arr[260] = 98
+arr[261] = -38     new_arr[261] = -38
+arr[262] = -68     new_arr[262] = -68
+arr[263] = -91     new_arr[263] = -91
+arr[264] = 100     new_arr[264] = 100
+arr[265] = 51     new_arr[265] = 51
+arr[266] = -50     new_arr[266] = -50
+arr[267] = -82     new_arr[267] = -82
+arr[268] = 83     new_arr[268] = 83
+arr[269] = 99     new_arr[269] = 99
+arr[270] = 75     new_arr[270] = 75
+arr[271] = -78     new_arr[271] = -78
+arr[272] = 6     new_arr[272] = 6
+arr[273] = -39     new_arr[273] = -39
+arr[274] = 41     new_arr[274] = 41
+arr[275] = 73     new_arr[275] = 73
+arr[276] = -41     new_arr[276] = -41
+arr[277] = 12     new_arr[277] = 12
+arr[278] = -70     new_arr[278] = -70
+arr[279] = 27     new_arr[279] = 27
+arr[280] = 35     new_arr[280] = 35
+arr[281] = 30     new_arr[281] = 30
+arr[282] = 82     new_arr[282] = 82
+arr[283] = 7     new_arr[283] = 7
+arr[284] = -32     new_arr[284] = -32
+arr[285] = -10     new_arr[285] = -10
+arr[286] = -20     new_arr[286] = -20
+arr[287] = 1     new_arr[287] = 1
+arr[288] = 39     new_arr[288] = 39
+arr[289] = 26     new_arr[289] = 26
+arr[290] = -57     new_arr[290] = -57
+arr[291] = 37     new_arr[291] = 37
+arr[292] = 88     new_arr[292] = 88
+arr[293] = -24     new_arr[293] = -24
+arr[294] = 46     new_arr[294] = 46
+arr[295] = 88     new_arr[295] = 88
+arr[296] = -74     new_arr[296] = -74
+arr[297] = 97     new_arr[297] = 97
+arr[298] = -95     new_arr[298] = -95
+arr[299] = -91     new_arr[299] = -91
