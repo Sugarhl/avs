@@ -1,0 +1,857 @@
+pin 400 Correct curve
+rawSize 1 
+pin 400 Sharpen complete
+pin 447 Correct curve
+pin 775 Correct curve
+pin 447 Sharpen complete
+pin 704 Correct curve
+pin 935 Incorrect curve
+pin 164 Correct curve
+6800 OK
+pin 487 Correct curve
+pin 947 Correct curve
+pin 775 Sharpen complete
+pin 521 Correct curve
+pin 672 Correct curve
+pin 935 Incorrect curve
+7599 OK
+pin 441 Correct curve
+pin 109 Correct curve
+pin 704 Sharpen complete
+pin 205 Correct curve
+pin 933 Correct curve
+pin 832 Correct curve
+13175 OK
+pin 337 Correct curve
+pin 815 Correct curve
+pin 164 Sharpen complete
+pin 762 Correct curve
+pin 445 Correct curve
+11968 OK
+pin 12 Correct curve
+pin 659 Correct curve
+pin 487 Sharpen complete
+pin 589 Correct curve
+pin 670 Correct curve
+pin 553 Correct curve
+2788 OK
+pin 827 Correct curve
+pin 432 Correct curve
+pin 947 Sharpen complete
+pin 615 Correct curve
+pin 331 Correct curve
+pin 754 Correct curve
+8279 OK
+pin 965 Correct curve
+pin 670 Correct curve
+pin 521 Sharpen complete
+pin 283 Correct curve
+pin 303 Correct curve
+pin 454 Correct curve
+16099 OK
+pin 21 Correct curve
+pin 260 Correct curve
+pin 672 Sharpen complete
+pin 29 Correct curve
+pin 588 Correct curve
+8857 OK
+pin 213 Correct curve
+pin 532 Correct curve
+pin 441 Sharpen complete
+pin 957 Correct curve
+pin 604 Correct curve
+pin 277 Correct curve
+11424 OK
+pin 335 Correct curve
+pin 447 Correct curve
+pin 109 Sharpen complete
+pin 420 Correct curve
+pin 382 Correct curve
+pin 767 Correct curve
+7497 OK
+pin 802 Correct curve
+pin 297 Correct curve
+pin 205 Sharpen complete
+pin 249 Correct curve
+pin 900 Correct curve
+pin 585 Correct curve
+1853 OK
+pin 296 Correct curve
+pin 933 Sharpen complete
+pin 418 Correct curve
+pin 885 Correct curve
+pin 274 Correct curve
+3485 OK
+pin 193 Correct curve
+pin 16 Correct curve
+pin 832 Sharpen complete
+pin 401 Correct curve
+pin 884 Incorrect curve
+pin 763 Correct curve
+10263 Incorrect sharpen
+pin 668 Correct curve
+pin 867 Incorrect curve
+pin 337 Sharpen complete
+pin 979 Correct curve
+pin 753 Correct curve
+pin 558 Correct curve
+14144 OK
+pin 401 Correct curve
+pin 533 Correct curve
+pin 815 Sharpen complete
+pin 503 Correct curve
+pin 819 Correct curve
+5729 OK
+pin 919 Correct curve
+pin 544 Incorrect curve
+pin 762 Sharpen complete
+pin 440 Correct curve
+pin 89 Correct curve
+pin 66 Correct curve
+13855 OK
+pin 921 Correct curve
+pin 370 Correct curve
+pin 445 Sharpen complete
+pin 684 Correct curve
+pin 873 Correct curve
+pin 222 Correct curve
+8382 Incorrect sharpen
+pin 438 Correct curve
+pin 413 Correct curve
+pin 12 Sharpen complete
+pin 140 Correct curve
+pin 756 Correct curve
+pin 110 Correct curve
+7565 OK
+pin 82 Correct curve
+pin 366 Correct curve
+pin 659 Sharpen complete
+pin 192 Correct curve
+pin 956 Correct curve
+pin 24 Correct curve
+204 OK
+pin 612 Incorrect curve
+pin 646 Incorrect curve
+pin 589 Sharpen complete
+pin 387 Correct curve
+pin 539 Correct curve
+11203 OK
+pin 458 Correct curve
+pin 238 Incorrect curve
+pin 670 Sharpen complete
+pin 782 Incorrect curve
+pin 798 Correct curve
+pin 177 Correct curve
+10013 OK
+pin 962 Correct curve
+pin 167 Correct curve
+pin 553 Sharpen complete
+pin 360 Correct curve
+pin 714 Incorrect curve
+pin 426 Correct curve
+11390 OK
+pin 286 Correct curve
+pin 21 Correct curve
+pin 827 Sharpen complete
+pin 786 Correct curve
+pin 755 Correct curve
+pin 899 Correct curve
+9401 OK
+pin 73 Correct curve
+pin 343 Correct curve
+pin 432 Sharpen complete
+pin 433 Correct curve
+pin 209 Correct curve
+pin 378 Correct curve
+14059 OK
+pin 929 Correct curve
+pin 615 Sharpen complete
+pin 830 Correct curve
+pin 461 Correct curve
+pin 801 Correct curve
+7344 OK
+pin 136 Incorrect curve
+pin 275 Correct curve
+pin 331 Sharpen complete
+pin 855 Correct curve
+pin 497 Correct curve
+pin 333 Correct curve
+6765 Incorrect sharpen
+pin 700 Correct curve
+pin 38 Correct curve
+pin 754 Sharpen complete
+pin 987 Correct curve
+pin 477 Correct curve
+pin 25 Correct curve
+5627 OK
+pin 191 Correct curve
+pin 894 Correct curve
+pin 965 Sharpen complete
+pin 996 Correct curve
+pin 272 Incorrect curve
+pin 393 Correct curve
+12818 OK
+pin 306 Incorrect curve
+pin 431 Correct curve
+pin 670 Sharpen complete
+pin 333 Correct curve
+pin 640 Correct curve
+16405 OK
+pin 259 Correct curve
+pin 849 Correct curve
+pin 283 Sharpen complete
+pin 762 Correct curve
+pin 620 Correct curve
+pin 769 Correct curve
+11390 OK
+pin 150 Correct curve
+pin 434 Correct curve
+pin 303 Sharpen complete
+pin 922 Correct curve
+pin 124 Correct curve
+pin 295 Correct curve
+4811 OK
+pin 410 Correct curve
+pin 731 Incorrect curve
+pin 454 Sharpen complete
+pin 470 Correct curve
+pin 307 Correct curve
+pin 910 Correct curve
+5151 OK
+pin 604 Correct curve
+pin 510 Incorrect curve
+pin 21 Sharpen complete
+pin 949 Correct curve
+pin 767 Correct curve
+pin 241 Correct curve
+7718 OK
+pin 455 Correct curve
+pin 964 Correct curve
+pin 260 Sharpen complete
+pin 848 Correct curve
+pin 550 Correct curve
+357 OK
+pin 551 Correct curve
+pin 538 Correct curve
+pin 29 Sharpen complete
+pin 533 Correct curve
+pin 471 Correct curve
+pin 408 Incorrect curve
+4420 OK
+pin 385 Correct curve
+pin 542 Correct curve
+pin 588 Sharpen complete
+pin 242 Correct curve
+pin 929 Correct curve
+pin 408 Incorrect curve
+493 OK
+pin 707 Correct curve
+pin 387 Correct curve
+pin 213 Sharpen complete
+pin 821 Correct curve
+pin 358 Correct curve
+pin 37 Correct curve
+9996 OK
+pin 59 Correct curve
+pin 678 Correct curve
+pin 532 Sharpen complete
+pin 801 Correct curve
+pin 878 Correct curve
+3621 OK
+pin 251 Correct curve
+pin 450 Correct curve
+pin 957 Sharpen complete
+pin 448 Correct curve
+pin 463 Correct curve
+pin 501 Correct curve
+9044 OK
+pin 812 Correct curve
+pin 286 Correct curve
+pin 604 Sharpen complete
+pin 580 Correct curve
+pin 504 Correct curve
+pin 910 Correct curve
+16269 OK
+pin 450 Correct curve
+pin 595 Incorrect curve
+pin 277 Sharpen complete
+pin 287 Correct curve
+pin 695 Correct curve
+pin 595 Incorrect curve
+10268 OK
+pin 65 Correct curve
+pin 85 Incorrect curve
+pin 335 Sharpen complete
+pin 685 Correct curve
+pin 606 Correct curve
+pin 561 Incorrect curve
+4709 OK
+pin 802 Correct curve
+pin 447 Sharpen complete
+pin 10 Correct curve
+pin 227 Correct curve
+pin 277 Correct curve
+5695 OK
+pin 630 Correct curve
+pin 706 Correct curve
+pin 420 Sharpen complete
+pin 924 Correct curve
+pin 202 Correct curve
+pin 356 Correct curve
+7599 OK
+pin 574 Correct curve
+pin 967 Correct curve
+pin 382 Sharpen complete
+pin 853 Correct curve
+pin 984 Correct curve
+pin 245 Correct curve
+7140 OK
+pin 418 Correct curve
+pin 600 Correct curve
+pin 767 Sharpen complete
+pin 858 Correct curve
+pin 106 Correct curve
+6494 OK
+pin 27 Correct curve
+pin 568 Correct curve
+pin 802 Sharpen complete
+pin 990 Correct curve
+pin 282 Correct curve
+pin 215 Correct curve
+13039 OK
+pin 716 Correct curve
+pin 102 Incorrect curve
+pin 297 Sharpen complete
+pin 854 Correct curve
+pin 630 Correct curve
+13634 OK
+pin 351 Correct curve
+pin 543 Correct curve
+pin 249 Sharpen complete
+pin 588 Correct curve
+pin 326 Correct curve
+pin 822 Correct curve
+5049 OK
+pin 450 Correct curve
+pin 989 Correct curve
+pin 900 Sharpen complete
+pin 126 Correct curve
+pin 168 Correct curve
+pin 108 Correct curve
+2739 Incorrect sharpen
+pin 273 Correct curve
+pin 205 Correct curve
+pin 585 Sharpen complete
+pin 19 Correct curve
+pin 78 Correct curve
+15300 OK
+pin 982 Correct curve
+pin 754 Correct curve
+pin 296 Sharpen complete
+pin 139 Correct curve
+pin 423 Correct curve
+pin 101 Correct curve
+9945 OK
+pin 529 Correct curve
+pin 790 Correct curve
+pin 418 Sharpen complete
+pin 952 Incorrect curve
+pin 237 Correct curve
+pin 373 Correct curve
+5032 OK
+pin 670 Correct curve
+pin 523 Correct curve
+pin 885 Sharpen complete
+pin 584 Correct curve
+pin 617 Correct curve
+4598 Incorrect sharpen
+pin 509 Correct curve
+pin 40 Correct curve
+pin 274 Sharpen complete
+pin 104 Correct curve
+pin 699 Correct curve
+pin 308 Correct curve
+15045 OK
+pin 478 Correct curve
+pin 527 Incorrect curve
+pin 193 Sharpen complete
+pin 176 Correct curve
+pin 229 Correct curve
+pin 521 Correct curve
+4658 OK
+pin 410 Correct curve
+pin 49 Correct curve
+pin 16 Sharpen complete
+pin 424 Correct curve
+pin 941 Correct curve
+pin 248 Correct curve
+3281 OK
+pin 504 Correct curve
+pin 890 Correct curve
+pin 401 Sharpen complete
+pin 263 Correct curve
+pin 976 Correct curve
+176 Incorrect sharpen
+pin 573 Correct curve
+pin 200 Correct curve
+pin 763 Sharpen complete
+pin 452 Correct curve
+pin 508 Correct curve
+pin 958 Correct curve
+6817 OK
+pin 134 Correct curve
+pin 740 Correct curve
+pin 668 Sharpen complete
+pin 1000 Correct curve
+pin 846 Correct curve
+pin 85 Incorrect curve
+12971 OK
+pin 955 Correct curve
+pin 631 Correct curve
+pin 979 Sharpen complete
+pin 404 Correct curve
+pin 556 Correct curve
+11356 OK
+pin 390 Correct curve
+pin 407 Correct curve
+pin 753 Sharpen complete
+pin 329 Correct curve
+pin 101 Correct curve
+pin 817 Correct curve
+16643 OK
+pin 899 Correct curve
+pin 788 Correct curve
+pin 558 Sharpen complete
+pin 147 Correct curve
+pin 259 Correct curve
+pin 329 Correct curve
+12801 OK
+pin 401 Sharpen complete
+9486 OK
+pin 533 Sharpen complete
+6817 OK
+pin 503 Sharpen complete
+9061 OK
+pin 819 Sharpen complete
+8551 OK
+pin 919 Sharpen complete
+13923 OK
+pin 440 Sharpen complete
+15623 OK
+pin 89 Sharpen complete
+7480 OK
+pin 66 Sharpen complete
+1513 OK
+pin 921 Sharpen complete
+1122 OK
+pin 370 Sharpen complete
+15657 OK
+pin 684 Sharpen complete
+6290 OK
+pin 873 Sharpen complete
+11628 OK
+pin 222 Sharpen complete
+14841 OK
+pin 438 Sharpen complete
+3774 OK
+pin 413 Sharpen complete
+7446 OK
+pin 140 Sharpen complete
+7021 OK
+pin 756 Sharpen complete
+1540 Incorrect sharpen
+pin 110 Sharpen complete
+12852 OK
+pin 82 Sharpen complete
+1870 OK
+pin 366 Sharpen complete
+1394 OK
+pin 192 Sharpen complete
+6222 OK
+pin 956 Sharpen complete
+3264 OK
+pin 24 Sharpen complete
+16252 OK
+pin 387 Sharpen complete
+408 OK
+pin 539 Sharpen complete
+6579 OK
+pin 458 Sharpen complete
+9163 OK
+pin 798 Sharpen complete
+7786 OK
+pin 177 Sharpen complete
+13566 OK
+pin 962 Sharpen complete
+1947 Incorrect sharpen
+pin 167 Sharpen complete
+16354 OK
+pin 360 Sharpen complete
+2839 OK
+pin 426 Sharpen complete
+6120 OK
+pin 286 Sharpen complete
+7242 OK
+pin 21 Sharpen complete
+4862 OK
+pin 786 Sharpen complete
+357 OK
+pin 755 Sharpen complete
+13362 OK
+pin 899 Sharpen complete
+12835 OK
+pin 73 Sharpen complete
+15283 OK
+pin 343 Sharpen complete
+803 Incorrect sharpen
+pin 433 Sharpen complete
+5831 OK
+pin 209 Sharpen complete
+7361 OK
+pin 378 Sharpen complete
+3553 OK
+pin 929 Sharpen complete
+6426 OK
+pin 830 Sharpen complete
+15793 OK
+pin 461 Sharpen complete
+14110 OK
+pin 801 Sharpen complete
+7837 OK
+pin 275 Sharpen complete
+13617 OK
+pin 855 Sharpen complete
+4675 OK
+pin 497 Sharpen complete
+14535 OK
+pin 333 Sharpen complete
+8449 OK
+pin 700 Sharpen complete
+3663 Incorrect sharpen
+pin 38 Sharpen complete
+11900 OK
+pin 987 Sharpen complete
+646 OK
+pin 477 Sharpen complete
+16779 OK
+pin 25 Sharpen complete
+8109 OK
+pin 191 Sharpen complete
+425 OK
+pin 894 Sharpen complete
+3247 OK
+pin 996 Sharpen complete
+9834 Incorrect sharpen
+pin 393 Sharpen complete
+16932 OK
+pin 431 Sharpen complete
+6681 OK
+pin 333 Sharpen complete
+7327 OK
+pin 640 Sharpen complete
+5661 OK
+pin 259 Sharpen complete
+10880 OK
+pin 849 Sharpen complete
+4403 OK
+pin 762 Sharpen complete
+14433 OK
+pin 620 Sharpen complete
+12954 OK
+pin 769 Sharpen complete
+10540 OK
+pin 150 Sharpen complete
+13073 OK
+pin 434 Sharpen complete
+2550 OK
+pin 922 Sharpen complete
+7378 OK
+pin 124 Sharpen complete
+15674 OK
+pin 295 Sharpen complete
+2108 OK
+pin 410 Sharpen complete
+5015 OK
+pin 470 Sharpen complete
+6970 OK
+pin 307 Sharpen complete
+7990 OK
+pin 910 Sharpen complete
+5219 OK
+pin 604 Sharpen complete
+15470 OK
+pin 949 Sharpen complete
+10268 OK
+pin 767 Sharpen complete
+16133 OK
+pin 241 Sharpen complete
+13039 OK
+pin 455 Sharpen complete
+4097 OK
+pin 964 Sharpen complete
+7735 OK
+pin 848 Sharpen complete
+16388 OK
+pin 550 Sharpen complete
+9328 Incorrect sharpen
+pin 551 Sharpen complete
+9350 OK
+pin 538 Sharpen complete
+9367 OK
+pin 533 Sharpen complete
+9146 OK
+pin 471 Sharpen complete
+5863 Incorrect sharpen
+pin 385 Sharpen complete
+8007 OK
+pin 542 Sharpen complete
+6545 OK
+pin 242 Sharpen complete
+9214 OK
+pin 929 Sharpen complete
+4114 OK
+pin 707 Sharpen complete
+15793 OK
+pin 387 Sharpen complete
+12019 OK
+pin 821 Sharpen complete
+6579 OK
+pin 358 Sharpen complete
+13957 OK
+pin 37 Sharpen complete
+6086 OK
+pin 59 Sharpen complete
+629 OK
+pin 678 Sharpen complete
+1003 OK
+pin 801 Sharpen complete
+11526 OK
+pin 878 Sharpen complete
+13617 OK
+pin 251 Sharpen complete
+14926 OK
+pin 450 Sharpen complete
+2761 Incorrect sharpen
+pin 448 Sharpen complete
+7650 OK
+pin 463 Sharpen complete
+4928 Incorrect sharpen
+pin 501 Sharpen complete
+7871 OK
+pin 812 Sharpen complete
+8517 OK
+pin 286 Sharpen complete
+13804 OK
+pin 580 Sharpen complete
+4862 OK
+pin 504 Sharpen complete
+9860 OK
+pin 910 Sharpen complete
+8568 OK
+pin 450 Sharpen complete
+15470 OK
+pin 287 Sharpen complete
+7650 OK
+pin 695 Sharpen complete
+4879 OK
+pin 65 Sharpen complete
+11815 OK
+pin 685 Sharpen complete
+1105 OK
+pin 606 Sharpen complete
+11645 OK
+pin 802 Sharpen complete
+10302 OK
+pin 10 Sharpen complete
+13634 OK
+pin 227 Sharpen complete
+170 OK
+pin 277 Sharpen complete
+3859 OK
+pin 630 Sharpen complete
+4709 OK
+pin 706 Sharpen complete
+10710 OK
+pin 924 Sharpen complete
+12002 OK
+pin 202 Sharpen complete
+15708 OK
+pin 356 Sharpen complete
+3434 OK
+pin 574 Sharpen complete
+6052 OK
+pin 967 Sharpen complete
+9758 OK
+pin 853 Sharpen complete
+16439 OK
+pin 984 Sharpen complete
+14501 OK
+pin 245 Sharpen complete
+16728 OK
+pin 418 Sharpen complete
+4165 OK
+pin 600 Sharpen complete
+7106 OK
+pin 858 Sharpen complete
+10200 OK
+pin 106 Sharpen complete
+14586 OK
+pin 27 Sharpen complete
+1802 OK
+pin 568 Sharpen complete
+459 OK
+pin 990 Sharpen complete
+9656 OK
+pin 282 Sharpen complete
+16830 OK
+pin 215 Sharpen complete
+4794 OK
+pin 716 Sharpen complete
+3655 OK
+pin 854 Sharpen complete
+12172 OK
+pin 630 Sharpen complete
+14518 OK
+pin 351 Sharpen complete
+10710 OK
+pin 543 Sharpen complete
+3861 Incorrect sharpen
+pin 588 Sharpen complete
+9231 OK
+pin 326 Sharpen complete
+9996 OK
+pin 822 Sharpen complete
+5542 OK
+pin 450 Sharpen complete
+13974 OK
+pin 989 Sharpen complete
+7650 OK
+pin 126 Sharpen complete
+16813 OK
+pin 168 Sharpen complete
+2142 OK
+pin 108 Sharpen complete
+2856 OK
+pin 273 Sharpen complete
+1836 OK
+pin 205 Sharpen complete
+4641 OK
+pin 19 Sharpen complete
+2255 Incorrect sharpen
+pin 78 Sharpen complete
+323 OK
+pin 982 Sharpen complete
+858 Incorrect sharpen
+pin 754 Sharpen complete
+16694 OK
+pin 139 Sharpen complete
+12818 OK
+pin 423 Sharpen complete
+2363 OK
+pin 101 Sharpen complete
+7191 OK
+pin 529 Sharpen complete
+1111 Incorrect sharpen
+pin 790 Sharpen complete
+8993 OK
+pin 237 Sharpen complete
+13430 OK
+pin 373 Sharpen complete
+4029 OK
+pin 670 Sharpen complete
+6341 OK
+pin 523 Sharpen complete
+11390 OK
+pin 584 Sharpen complete
+8891 OK
+pin 617 Sharpen complete
+9928 OK
+pin 509 Sharpen complete
+10489 OK
+pin 40 Sharpen complete
+8653 OK
+pin 104 Sharpen complete
+680 OK
+pin 699 Sharpen complete
+1768 OK
+pin 308 Sharpen complete
+11883 OK
+pin 478 Sharpen complete
+5236 OK
+pin 176 Sharpen complete
+8126 OK
+pin 229 Sharpen complete
+2992 OK
+pin 521 Sharpen complete
+3893 OK
+pin 410 Sharpen complete
+8857 OK
+pin 49 Sharpen complete
+6970 OK
+pin 424 Sharpen complete
+833 OK
+pin 941 Sharpen complete
+7208 OK
+pin 248 Sharpen complete
+10351 Incorrect sharpen
+pin 504 Sharpen complete
+4216 OK
+pin 890 Sharpen complete
+8568 OK
+pin 263 Sharpen complete
+9790 Incorrect sharpen
+pin 976 Sharpen complete
+4471 OK
+pin 573 Sharpen complete
+16592 OK
+pin 200 Sharpen complete
+9741 OK
+pin 452 Sharpen complete
+2200 Incorrect sharpen
+pin 508 Sharpen complete
+7684 OK
+pin 958 Sharpen complete
+8636 OK
+pin 134 Sharpen complete
+10538 Incorrect sharpen
+pin 740 Sharpen complete
+2278 OK
+pin 1000 Sharpen complete
+12580 OK
+pin 846 Sharpen complete
+17000 OK
+pin 955 Sharpen complete
+14382 OK
+pin 631 Sharpen complete
+16235 OK
+pin 404 Sharpen complete
+10727 OK
+pin 556 Sharpen complete
+6868 OK
+pin 390 Sharpen complete
+9452 OK
+pin 407 Sharpen complete
+6630 OK
+pin 329 Sharpen complete
+6919 OK
+pin 101 Sharpen complete
+5593 OK
+pin 817 Sharpen complete
+1717 OK
+pin 899 Sharpen complete
+13889 OK
+pin 788 Sharpen complete
+9889 Incorrect sharpen
+pin 147 Sharpen complete
+13396 OK
+pin 259 Sharpen complete
+2499 OK
+pin 329 Sharpen complete
+4403 OK
+5593 OK
+
+ Количество нормальных заготовок: 275
+
+ Количество заточеных булавок: 275
+
+ Количество хороших булавок: 251

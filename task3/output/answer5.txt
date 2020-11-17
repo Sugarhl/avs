@@ -1,0 +1,11 @@
+pin 816 Incorrect curve
+rawSize 0 
+pin 929 Correct curve
+pin 757 Correct curve
+pin 878 Correct curve
+
+ Количество нормальных заготовок: 3
+
+ Количество заточеных булавок: 0
+
+ Количество хороших булавок: 0
