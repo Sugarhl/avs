@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-const int arrSize = 1000;
+const int arrSize = 10000;
 int startArray[arrSize]; // стартовый массив
 
 int raw[arrSize]; // массив некривых заготовок

@@ -16,15 +16,15 @@ pin 63 Correct curve
 pin 5 Correct curve
 170 OK
 pin 68 Incorrect curve
-pin 68 Incorrect curve
 pin 50 Sharpen complete
+pin 68 Incorrect curve
 pin 11 Correct curve
 pin 52 Correct curve
-pin 80 Correct curve
 901 OK
+pin 80 Correct curve
 pin 19 Correct curve
-pin 47 Correct curve
 pin 22 Sharpen complete
+pin 47 Correct curve
 pin 52 Correct curve
 pin 28 Correct curve
 850 OK
@@ -40,11 +40,11 @@ pin 10 Correct curve
 pin 32 Sharpen complete
 pin 81 Correct curve
 pin 90 Correct curve
-pin 23 Correct curve
 816 OK
+pin 23 Correct curve
 pin 70 Correct curve
-pin 43 Correct curve
 pin 99 Sharpen complete
+pin 43 Correct curve
 pin 34 Incorrect curve
 pin 24 Correct curve
 544 OK
@@ -60,15 +60,15 @@ pin 90 Correct curve
 pin 63 Sharpen complete
 pin 61 Correct curve
 pin 89 Correct curve
-pin 58 Correct curve
 816 OK
+pin 58 Correct curve
 pin 73 Correct curve
-pin 41 Correct curve
 pin 5 Sharpen complete
+pin 41 Correct curve
 pin 38 Correct curve
 pin 92 Correct curve
-pin 89 Correct curve
 1071 OK
+pin 89 Correct curve
 pin 90 Correct curve
 pin 11 Sharpen complete
 pin 21 Correct curve
@@ -87,125 +87,125 @@ pin 43 Correct curve
 pin 80 Sharpen complete
 pin 64 Correct curve
 pin 9 Correct curve
-pin 87 Correct curve
 572 Incorrect sharpen
+pin 87 Correct curve
 pin 99 Correct curve
-pin 33 Correct curve
 pin 19 Sharpen complete
+pin 33 Correct curve
 pin 81 Correct curve
 pin 55 Correct curve
-pin 6 Correct curve
 1360 OK
+pin 6 Correct curve
 pin 8 Correct curve
-pin 11 Correct curve
 pin 47 Sharpen complete
+pin 11 Correct curve
 pin 27 Correct curve
 pin 99 Correct curve
-pin 73 Correct curve
 323 OK
+pin 73 Correct curve
 pin 16 Correct curve
 pin 52 Sharpen complete
 pin 57 Correct curve
 pin 46 Correct curve
-pin 58 Correct curve
 799 OK
+pin 58 Correct curve
 pin 96 Correct curve
-pin 39 Correct curve
 pin 28 Sharpen complete
+pin 39 Correct curve
 pin 47 Correct curve
 pin 87 Correct curve
-pin 60 Correct curve
 572 Incorrect sharpen
+pin 60 Correct curve
 pin 82 Correct curve
-pin 53 Correct curve
 pin 45 Sharpen complete
+pin 53 Correct curve
 pin 33 Correct curve
 pin 12 Correct curve
-pin 11 Correct curve
 476 OK
+pin 11 Correct curve
 pin 85 Incorrect curve
-pin 53 Correct curve
 pin 74 Sharpen complete
+pin 53 Correct curve
 pin 50 Correct curve
+765 OK
 pin 29 Correct curve
 pin 18 Correct curve
-765 OK
-pin 60 Correct curve
 pin 50 Sharpen complete
+pin 60 Correct curve
 pin 16 Correct curve
 pin 17 Incorrect curve
-pin 94 Correct curve
 1258 OK
+pin 94 Correct curve
 pin 98 Correct curve
-pin 73 Correct curve
 pin 95 Sharpen complete
+pin 73 Correct curve
 pin 0 Incorrect curve
 pin 7 Correct curve
-pin 85 Incorrect curve
 850 OK
+pin 85 Incorrect curve
 pin 27 Correct curve
-pin 6 Correct curve
 pin 92 Sharpen complete
+pin 6 Correct curve
 pin 59 Correct curve
+1615 OK
 pin 44 Correct curve
 pin 64 Correct curve
-1615 OK
+pin 80 Sharpen complete
 pin 6 Correct curve
 pin 2 Correct curve
-pin 80 Sharpen complete
 pin 60 Correct curve
-pin 45 Correct curve
 1564 OK
+pin 45 Correct curve
 pin 50 Correct curve
-pin 48 Correct curve
 pin 10 Sharpen complete
+pin 48 Correct curve
 pin 6 Correct curve
 pin 32 Correct curve
-pin 1 Correct curve
 1360 OK
+pin 1 Correct curve
 pin 39 Correct curve
-pin 45 Correct curve
 pin 81 Sharpen complete
+pin 45 Correct curve
 pin 12 Correct curve
-pin 24 Correct curve
 170 OK
+pin 24 Correct curve
 pin 99 Correct curve
-pin 63 Correct curve
 pin 90 Sharpen complete
+pin 63 Correct curve
 pin 54 Correct curve
 pin 17 Incorrect curve
-pin 23 Correct curve
 891 Incorrect sharpen
+pin 23 Correct curve
 pin 71 Correct curve
-pin 35 Correct curve
 pin 23 Sharpen complete
+pin 35 Correct curve
 pin 18 Correct curve
 pin 69 Correct curve
-pin 9 Correct curve
 1530 OK
+pin 9 Correct curve
 pin 18 Correct curve
-pin 76 Correct curve
 pin 70 Sharpen complete
+pin 76 Correct curve
 pin 94 Correct curve
-pin 45 Correct curve
 391 OK
+pin 45 Correct curve
 pin 82 Correct curve
-pin 53 Correct curve
 pin 43 Sharpen complete
+pin 53 Correct curve
 pin 89 Correct curve
 pin 46 Correct curve
-pin 59 Correct curve
 1190 OK
+pin 59 Correct curve
 pin 92 Correct curve
-pin 7 Correct curve
 pin 24 Sharpen complete
+pin 7 Correct curve
 pin 5 Correct curve
 pin 42 Correct curve
-pin 55 Correct curve
 731 OK
+pin 55 Correct curve
 pin 11 Correct curve
-pin 74 Correct curve
 pin 94 Sharpen complete
+pin 74 Correct curve
 pin 57 Correct curve
 pin 50 Correct curve
 408 OK
@@ -214,18 +214,18 @@ pin 70 Correct curve
 pin 56 Sharpen complete
 pin 75 Correct curve
 pin 18 Correct curve
-pin 33 Correct curve
 1598 OK
+pin 33 Correct curve
 pin 29 Correct curve
-pin 36 Correct curve
 pin 72 Sharpen complete
+pin 36 Correct curve
 pin 57 Correct curve
 pin 0 Incorrect curve
-pin 72 Correct curve
 952 OK
+pin 72 Correct curve
 pin 75 Correct curve
-pin 70 Correct curve
 pin 27 Sharpen complete
+pin 70 Correct curve
 pin 81 Correct curve
 pin 94 Correct curve
 1224 OK
@@ -237,1195 +237,1195 @@ pin 29 Correct curve
 pin 29 Correct curve
 459 OK
 pin 30 Correct curve
-pin 75 Correct curve
 pin 20 Sharpen complete
+pin 75 Correct curve
 pin 88 Correct curve
 pin 22 Correct curve
-pin 83 Correct curve
 952 OK
+pin 83 Correct curve
 pin 93 Correct curve
-pin 65 Correct curve
 pin 90 Sharpen complete
+pin 65 Correct curve
 pin 38 Correct curve
 pin 5 Correct curve
-pin 39 Correct curve
 340 OK
+pin 39 Correct curve
 pin 96 Correct curve
-pin 56 Correct curve
 pin 61 Sharpen complete
+pin 56 Correct curve
 pin 59 Correct curve
 pin 66 Correct curve
-pin 31 Correct curve
 1530 OK
-pin 78 Correct curve
+pin 31 Correct curve
 pin 89 Sharpen complete
+pin 78 Correct curve
 pin 0 Incorrect curve
 pin 61 Correct curve
-pin 15 Correct curve
 1037 OK
+pin 15 Correct curve
 pin 57 Correct curve
-pin 62 Correct curve
 pin 58 Sharpen complete
+pin 62 Correct curve
 pin 87 Correct curve
 pin 33 Correct curve
-pin 33 Correct curve
 1513 OK
+pin 33 Correct curve
 pin 68 Incorrect curve
-pin 28 Correct curve
 pin 73 Sharpen complete
+pin 28 Correct curve
 pin 79 Correct curve
 pin 44 Correct curve
-pin 68 Incorrect curve
 986 OK
+pin 68 Incorrect curve
 pin 9 Correct curve
-pin 73 Correct curve
 pin 41 Sharpen complete
+pin 73 Correct curve
 pin 98 Correct curve
+1241 OK
 pin 85 Incorrect curve
 pin 62 Correct curve
-1241 OK
+pin 38 Sharpen complete
 pin 21 Correct curve
 pin 68 Incorrect curve
-pin 38 Sharpen complete
 pin 56 Correct curve
-pin 86 Correct curve
 697 OK
+pin 86 Correct curve
 pin 7 Correct curve
-pin 62 Correct curve
 pin 92 Sharpen complete
+pin 62 Correct curve
 pin 26 Correct curve
 pin 3 Correct curve
-pin 18 Correct curve
 646 OK
+pin 18 Correct curve
 pin 86 Correct curve
-pin 69 Correct curve
 pin 89 Sharpen complete
+pin 69 Correct curve
 pin 49 Correct curve
 pin 65 Correct curve
-pin 69 Correct curve
 1564 OK
+pin 69 Correct curve
 pin 11 Correct curve
-pin 80 Correct curve
 pin 90 Sharpen complete
+pin 80 Correct curve
 pin 27 Correct curve
+1513 OK
 pin 74 Correct curve
 pin 68 Incorrect curve
-1513 OK
+pin 21 Sharpen complete
 pin 61 Correct curve
 pin 7 Correct curve
-pin 21 Sharpen complete
 pin 37 Correct curve
+1530 OK
 pin 89 Correct curve
 pin 87 Correct curve
-1530 OK
+pin 65 Sharpen complete
 pin 81 Correct curve
 pin 58 Correct curve
-pin 65 Sharpen complete
 pin 96 Correct curve
-pin 55 Correct curve
 357 OK
+pin 55 Correct curve
 pin 57 Correct curve
-pin 81 Correct curve
 pin 72 Sharpen complete
+pin 81 Correct curve
 pin 18 Correct curve
 pin 78 Correct curve
-pin 49 Correct curve
 1105 OK
+pin 49 Correct curve
+pin 30 Sharpen complete
 pin 74 Correct curve
 pin 65 Correct curve
-pin 30 Sharpen complete
 pin 56 Correct curve
+792 Incorrect sharpen
 pin 36 Correct curve
 pin 92 Correct curve
-792 Incorrect sharpen
+pin 58 Sharpen complete
 pin 60 Correct curve
 pin 54 Correct curve
-pin 58 Sharpen complete
 pin 78 Correct curve
-pin 29 Correct curve
 510 OK
+pin 29 Correct curve
 pin 4 Correct curve
-pin 43 Correct curve
 pin 52 Sharpen complete
+pin 43 Correct curve
 pin 99 Correct curve
 pin 16 Correct curve
-pin 24 Correct curve
 986 OK
-pin 27 Correct curve
-pin 90 Correct curve
+pin 24 Correct curve
 pin 41 Sharpen complete
+pin 27 Correct curve
+pin 90 Correct curve
 pin 93 Correct curve
-pin 88 Correct curve
-pin 98 Correct curve
 884 OK
+pin 88 Correct curve
+pin 98 Correct curve
+pin 39 Sharpen complete
 pin 30 Correct curve
 pin 78 Correct curve
-pin 39 Sharpen complete
 pin 85 Incorrect curve
-pin 11 Correct curve
 451 Incorrect sharpen
+pin 11 Correct curve
 pin 37 Correct curve
-pin 82 Correct curve
 pin 43 Sharpen complete
+pin 82 Correct curve
 pin 67 Correct curve
 pin 94 Correct curve
-pin 63 Correct curve
 663 OK
+pin 63 Correct curve
+pin 64 Sharpen complete
 pin 85 Incorrect curve
 pin 73 Correct curve
-pin 64 Sharpen complete
 pin 13 Correct curve
-pin 60 Correct curve
-pin 38 Correct curve
 731 OK
-pin 70 Correct curve
+pin 60 Correct curve
+pin 38 Correct curve
 pin 9 Sharpen complete
+pin 70 Correct curve
 pin 96 Correct curve
 pin 31 Correct curve
-pin 30 Correct curve
 1088 OK
+pin 30 Correct curve
 pin 51 Incorrect curve
-pin 9 Correct curve
 pin 87 Sharpen complete
+pin 9 Correct curve
 pin 60 Correct curve
 pin 56 Correct curve
-pin 53 Correct curve
 99 Incorrect sharpen
+pin 53 Correct curve
 pin 60 Correct curve
-pin 72 Correct curve
 pin 99 Sharpen complete
+pin 72 Correct curve
 pin 78 Correct curve
-pin 87 Correct curve
 1479 OK
+pin 87 Correct curve
 pin 63 Correct curve
-pin 71 Correct curve
 pin 33 Sharpen complete
+pin 71 Correct curve
 pin 76 Correct curve
 pin 62 Correct curve
-pin 1 Correct curve
 1683 OK
+pin 1 Correct curve
 pin 55 Correct curve
-pin 48 Correct curve
 pin 81 Sharpen complete
+pin 48 Correct curve
 pin 13 Correct curve
 pin 92 Correct curve
-pin 30 Correct curve
 561 OK
+pin 30 Correct curve
 pin 81 Correct curve
-pin 87 Correct curve
 pin 55 Sharpen complete
+pin 87 Correct curve
 pin 94 Correct curve
-pin 66 Correct curve
 1377 OK
+pin 66 Correct curve
 pin 60 Correct curve
-pin 7 Correct curve
 pin 6 Sharpen complete
+pin 7 Correct curve
 pin 26 Correct curve
 pin 99 Correct curve
-pin 78 Correct curve
 935 OK
+pin 78 Correct curve
 pin 23 Correct curve
-pin 30 Correct curve
 pin 8 Sharpen complete
+pin 30 Correct curve
 pin 9 Correct curve
 pin 75 Correct curve
-pin 40 Correct curve
 102 OK
+pin 40 Correct curve
 pin 70 Correct curve
-pin 31 Correct curve
 pin 11 Sharpen complete
+pin 31 Correct curve
 pin 94 Correct curve
-pin 30 Correct curve
 136 OK
+pin 30 Correct curve
 pin 4 Correct curve
-pin 72 Correct curve
 pin 27 Sharpen complete
+pin 72 Correct curve
 pin 18 Correct curve
 pin 68 Incorrect curve
-pin 44 Correct curve
 187 OK
+pin 44 Correct curve
 pin 94 Correct curve
-pin 30 Correct curve
 pin 99 Sharpen complete
+pin 30 Correct curve
 pin 46 Correct curve
 pin 50 Correct curve
-pin 78 Correct curve
 459 OK
+pin 78 Correct curve
 pin 60 Correct curve
-pin 42 Correct curve
 pin 73 Sharpen complete
+pin 42 Correct curve
 pin 8 Correct curve
+1683 OK
 pin 41 Correct curve
 pin 30 Correct curve
-1683 OK
+pin 16 Sharpen complete
 pin 2 Correct curve
 pin 8 Correct curve
-pin 16 Sharpen complete
 pin 91 Correct curve
+1241 OK
 pin 10 Correct curve
 pin 35 Correct curve
-1241 OK
-pin 90 Correct curve
 pin 57 Sharpen complete
+pin 90 Correct curve
 pin 89 Correct curve
 pin 59 Correct curve
-pin 21 Correct curve
 272 OK
+pin 21 Correct curve
 pin 99 Correct curve
-pin 34 Incorrect curve
 pin 46 Sharpen complete
+pin 34 Incorrect curve
 pin 62 Correct curve
 pin 69 Correct curve
-pin 65 Correct curve
 969 OK
+pin 65 Correct curve
 pin 56 Correct curve
-pin 99 Correct curve
 pin 58 Sharpen complete
+pin 99 Correct curve
 pin 69 Correct curve
+782 OK
 pin 29 Correct curve
 pin 17 Incorrect curve
-782 OK
+pin 96 Sharpen complete
 pin 37 Correct curve
 pin 74 Correct curve
-pin 96 Sharpen complete
 pin 12 Correct curve
-pin 68 Incorrect curve
-pin 20 Correct curve
 986 OK
+pin 68 Incorrect curve
+pin 20 Correct curve
+pin 39 Sharpen complete
 pin 62 Correct curve
 pin 46 Correct curve
-pin 39 Sharpen complete
+1632 OK
 pin 81 Correct curve
 pin 5 Correct curve
-1632 OK
-pin 55 Correct curve
-pin 23 Correct curve
 pin 47 Sharpen complete
+pin 55 Correct curve
+pin 23 Correct curve
 pin 35 Correct curve
+663 OK
 pin 58 Correct curve
 pin 31 Correct curve
-663 OK
+pin 87 Sharpen complete
 pin 26 Correct curve
 pin 68 Incorrect curve
-pin 87 Sharpen complete
-pin 67 Correct curve
-pin 17 Incorrect curve
-pin 58 Correct curve
 799 OK
+pin 67 Correct curve
+pin 17 Incorrect curve
+pin 60 Sharpen complete
+pin 58 Correct curve
 pin 26 Correct curve
 pin 39 Correct curve
-pin 60 Sharpen complete
+1479 OK
 pin 57 Correct curve
 pin 60 Correct curve
-pin 2 Correct curve
-1479 OK
-pin 26 Correct curve
-pin 26 Correct curve
 pin 82 Sharpen complete
-pin 59 Correct curve
+pin 2 Correct curve
+pin 26 Correct curve
 pin 26 Correct curve
 1020 OK
+pin 59 Correct curve
+pin 26 Correct curve
+pin 53 Sharpen complete
 pin 96 Correct curve
 pin 88 Correct curve
-pin 53 Sharpen complete
 pin 44 Correct curve
-pin 34 Incorrect curve
-pin 63 Correct curve
 1394 OK
+pin 34 Incorrect curve
+pin 33 Sharpen complete
+pin 63 Correct curve
 pin 56 Correct curve
 pin 2 Correct curve
-pin 33 Sharpen complete
-pin 84 Correct curve
-pin 19 Correct curve
-pin 48 Correct curve
 583 Incorrect sharpen
+pin 84 Correct curve
+pin 19 Correct curve
+pin 12 Sharpen complete
+pin 48 Correct curve
 pin 65 Correct curve
 pin 24 Correct curve
-pin 12 Sharpen complete
+561 OK
 pin 4 Correct curve
 pin 89 Correct curve
-pin 60 Correct curve
-561 OK
-pin 62 Correct curve
-pin 21 Correct curve
 pin 11 Sharpen complete
-pin 86 Correct curve
-pin 31 Correct curve
+pin 60 Correct curve
+pin 62 Correct curve
 204 OK
+pin 21 Correct curve
+pin 86 Correct curve
+pin 53 Sharpen complete
+pin 31 Correct curve
 pin 88 Correct curve
 pin 4 Correct curve
-pin 53 Sharpen complete
+187 OK
 pin 89 Correct curve
 pin 15 Correct curve
+pin 50 Sharpen complete
 pin 43 Correct curve
-187 OK
 pin 47 Correct curve
 pin 75 Correct curve
-pin 50 Sharpen complete
+901 OK
 pin 45 Correct curve
+pin 29 Sharpen complete
 pin 73 Correct curve
 pin 2 Correct curve
-901 OK
 pin 4 Correct curve
+850 OK
 pin 0 Incorrect curve
-pin 29 Sharpen complete
 pin 98 Correct curve
+pin 18 Sharpen complete
 pin 93 Correct curve
 pin 44 Correct curve
-850 OK
 pin 32 Correct curve
+493 OK
 pin 57 Correct curve
-pin 18 Sharpen complete
 pin 1 Correct curve
+pin 60 Sharpen complete
 pin 35 Correct curve
 pin 41 Correct curve
-493 OK
+306 OK
 pin 20 Correct curve
 pin 84 Correct curve
-pin 60 Sharpen complete
-pin 7 Correct curve
-pin 45 Correct curve
-306 OK
-pin 88 Correct curve
-pin 96 Correct curve
 pin 16 Sharpen complete
+pin 7 Correct curve
+pin 45 Correct curve
+pin 88 Correct curve
+1020 OK
+pin 96 Correct curve
 pin 5 Correct curve
+pin 94 Sharpen complete
 pin 50 Correct curve
 pin 18 Correct curve
-1020 OK
 pin 91 Correct curve
+272 OK
 pin 81 Correct curve
-pin 94 Sharpen complete
+pin 98 Sharpen complete
 pin 6 Correct curve
 pin 96 Correct curve
 pin 71 Correct curve
-272 OK
+1598 OK
 pin 22 Correct curve
 pin 39 Correct curve
-pin 98 Sharpen complete
+pin 73 Sharpen complete
 pin 18 Correct curve
 pin 98 Correct curve
 pin 85 Incorrect curve
-1598 OK
+1666 OK
 pin 92 Correct curve
 pin 0 Incorrect curve
-pin 73 Sharpen complete
+pin 7 Sharpen complete
 pin 90 Correct curve
 pin 92 Correct curve
+803 Incorrect sharpen
 pin 99 Correct curve
-1666 OK
 pin 84 Correct curve
+pin 27 Sharpen complete
 pin 36 Correct curve
-pin 7 Sharpen complete
 pin 31 Correct curve
 pin 41 Correct curve
-803 Incorrect sharpen
+119 OK
 pin 38 Correct curve
 pin 66 Correct curve
-pin 27 Sharpen complete
+pin 6 Sharpen complete
 pin 83 Correct curve
 pin 58 Correct curve
 pin 51 Incorrect curve
-119 OK
+459 OK
 pin 90 Correct curve
 pin 4 Correct curve
-pin 6 Sharpen complete
+pin 59 Sharpen complete
 pin 39 Correct curve
 pin 87 Correct curve
+102 OK
 pin 9 Correct curve
-459 OK
 pin 89 Correct curve
+pin 44 Sharpen complete
 pin 5 Correct curve
-pin 59 Sharpen complete
 pin 1 Correct curve
 pin 71 Correct curve
+1003 OK
 pin 12 Correct curve
-102 OK
 pin 97 Correct curve
+pin 64 Sharpen complete
 pin 42 Correct curve
-pin 44 Sharpen complete
 pin 35 Correct curve
+748 OK
 pin 36 Correct curve
 pin 60 Correct curve
-1003 OK
+pin 6 Sharpen complete
 pin 33 Correct curve
 pin 22 Correct curve
-pin 64 Sharpen complete
 pin 52 Correct curve
+1088 OK
 pin 33 Correct curve
-748 OK
 pin 12 Correct curve
+pin 2 Sharpen complete
 pin 45 Correct curve
-pin 6 Sharpen complete
 pin 32 Correct curve
 pin 96 Correct curve
+102 OK
 pin 82 Correct curve
-1088 OK
 pin 64 Correct curve
+pin 60 Sharpen complete
 pin 38 Correct curve
-pin 2 Sharpen complete
 pin 20 Correct curve
+34 OK
 pin 31 Correct curve
 pin 21 Correct curve
-102 OK
+pin 45 Sharpen complete
 pin 79 Correct curve
 pin 82 Correct curve
-pin 60 Sharpen complete
 pin 12 Correct curve
+1020 OK
 pin 83 Correct curve
-34 OK
 pin 21 Correct curve
+pin 50 Sharpen complete
 pin 99 Correct curve
-pin 45 Sharpen complete
 pin 92 Correct curve
 pin 11 Correct curve
+495 Incorrect sharpen
 pin 5 Correct curve
-1020 OK
 pin 93 Correct curve
+pin 48 Sharpen complete
 pin 82 Correct curve
-pin 50 Sharpen complete
 pin 18 Correct curve
+850 OK
 pin 91 Correct curve
 pin 25 Correct curve
-495 Incorrect sharpen
+pin 6 Sharpen complete
 pin 53 Correct curve
 pin 27 Correct curve
-pin 48 Sharpen complete
 pin 86 Correct curve
+816 OK
 pin 86 Correct curve
 pin 50 Correct curve
-850 OK
+pin 32 Sharpen complete
 pin 39 Correct curve
 pin 20 Correct curve
-pin 6 Sharpen complete
 pin 62 Correct curve
+102 OK
 pin 84 Correct curve
-816 OK
 pin 53 Correct curve
+pin 1 Sharpen complete
 pin 59 Correct curve
-pin 32 Sharpen complete
 pin 66 Correct curve
 pin 17 Incorrect curve
+544 OK
 pin 97 Correct curve
-102 OK
 pin 87 Correct curve
+pin 39 Sharpen complete
 pin 49 Correct curve
-pin 1 Sharpen complete
 pin 19 Correct curve
+17 OK
 pin 66 Correct curve
 pin 31 Correct curve
-544 OK
+pin 45 Sharpen complete
 pin 31 Correct curve
 pin 50 Correct curve
-pin 39 Sharpen complete
 pin 53 Correct curve
+663 OK
 pin 30 Correct curve
 pin 43 Correct curve
-17 OK
+pin 12 Sharpen complete
 pin 64 Correct curve
 pin 36 Correct curve
-pin 45 Sharpen complete
 pin 37 Correct curve
+765 OK
 pin 47 Correct curve
-663 OK
 pin 55 Correct curve
+pin 24 Sharpen complete
 pin 28 Correct curve
-pin 12 Sharpen complete
 pin 73 Correct curve
 pin 8 Correct curve
+204 OK
 pin 56 Correct curve
-765 OK
 pin 59 Correct curve
+pin 99 Sharpen complete
 pin 95 Correct curve
-pin 24 Sharpen complete
 pin 6 Correct curve
 pin 98 Correct curve
+408 OK
 pin 15 Correct curve
-204 OK
+pin 63 Sharpen complete
 pin 69 Correct curve
 pin 83 Correct curve
-pin 99 Sharpen complete
 pin 69 Correct curve
+1683 OK
 pin 28 Correct curve
 pin 49 Correct curve
-408 OK
+pin 54 Sharpen complete
 pin 86 Correct curve
 pin 26 Correct curve
-pin 63 Sharpen complete
 pin 37 Correct curve
+1071 OK
 pin 35 Correct curve
 pin 45 Correct curve
-1683 OK
+pin 23 Sharpen complete
 pin 4 Correct curve
 pin 67 Correct curve
-pin 54 Sharpen complete
+594 Incorrect sharpen
 pin 76 Correct curve
 pin 55 Correct curve
-1071 OK
+pin 71 Sharpen complete
 pin 20 Correct curve
 pin 7 Correct curve
-pin 23 Sharpen complete
 pin 98 Correct curve
+391 OK
 pin 85 Incorrect curve
 pin 44 Correct curve
-594 Incorrect sharpen
+pin 35 Sharpen complete
 pin 36 Correct curve
 pin 33 Correct curve
-pin 71 Sharpen complete
 pin 99 Correct curve
+1207 OK
 pin 64 Correct curve
 pin 6 Correct curve
-391 OK
+pin 18 Sharpen complete
 pin 8 Correct curve
 pin 20 Correct curve
-pin 35 Sharpen complete
+595 OK
 pin 66 Correct curve
 pin 3 Correct curve
-1207 OK
+pin 69 Sharpen complete
 pin 27 Correct curve
 pin 64 Correct curve
-pin 18 Sharpen complete
 pin 19 Correct curve
+306 OK
 pin 96 Correct curve
 pin 48 Correct curve
-595 OK
+pin 9 Sharpen complete
 pin 88 Correct curve
 pin 25 Correct curve
-pin 69 Sharpen complete
 pin 98 Correct curve
+1173 OK
 pin 75 Correct curve
 pin 52 Correct curve
-306 OK
+pin 18 Sharpen complete
 pin 35 Correct curve
 pin 10 Correct curve
-pin 9 Sharpen complete
 pin 97 Correct curve
+153 OK
 pin 39 Correct curve
-1173 OK
 pin 78 Correct curve
+pin 76 Sharpen complete
 pin 74 Correct curve
 pin 94 Correct curve
-pin 18 Sharpen complete
+198 Incorrect sharpen
 pin 98 Correct curve
 pin 82 Correct curve
-153 OK
+pin 94 Sharpen complete
 pin 93 Correct curve
 pin 84 Correct curve
-pin 76 Sharpen complete
 pin 27 Correct curve
+1292 OK
 pin 29 Correct curve
 pin 17 Incorrect curve
-198 Incorrect sharpen
+pin 45 Sharpen complete
 pin 26 Correct curve
 pin 94 Correct curve
-pin 94 Sharpen complete
 pin 24 Correct curve
+1598 OK
 pin 34 Incorrect curve
 pin 15 Correct curve
-1292 OK
+pin 82 Sharpen complete
 pin 90 Correct curve
 pin 38 Correct curve
-pin 45 Sharpen complete
+765 OK
 pin 42 Correct curve
 pin 55 Correct curve
+pin 53 Sharpen complete
 pin 58 Correct curve
-1598 OK
 pin 39 Correct curve
 pin 3 Correct curve
-pin 82 Sharpen complete
+1394 OK
 pin 46 Correct curve
 pin 65 Correct curve
+pin 89 Sharpen complete
 pin 1 Correct curve
-765 OK
 pin 21 Correct curve
 pin 17 Incorrect curve
-pin 53 Sharpen complete
+901 OK
 pin 37 Correct curve
 pin 32 Correct curve
-1394 OK
+pin 46 Sharpen complete
 pin 15 Correct curve
 pin 77 Correct curve
-pin 89 Sharpen complete
+1513 OK
 pin 10 Correct curve
 pin 90 Correct curve
+pin 59 Sharpen complete
 pin 72 Correct curve
-901 OK
 pin 9 Correct curve
 pin 73 Correct curve
-pin 46 Sharpen complete
+782 OK
 pin 65 Correct curve
 pin 93 Correct curve
+pin 92 Sharpen complete
 pin 0 Incorrect curve
-1513 OK
 pin 95 Correct curve
 pin 11 Correct curve
-pin 59 Sharpen complete
+1003 OK
 pin 26 Correct curve
 pin 89 Correct curve
+pin 7 Sharpen complete
 pin 35 Correct curve
-782 OK
 pin 61 Correct curve
+1564 OK
 pin 4 Correct curve
-pin 92 Sharpen complete
 pin 25 Correct curve
+pin 5 Sharpen complete
 pin 0 Incorrect curve
-1003 OK
 pin 46 Correct curve
 pin 81 Correct curve
-pin 7 Sharpen complete
+119 OK
 pin 58 Correct curve
 pin 86 Correct curve
+pin 42 Sharpen complete
 pin 85 Incorrect curve
-1564 OK
 pin 5 Correct curve
 pin 51 Incorrect curve
-pin 5 Sharpen complete
+85 OK
 pin 86 Correct curve
 pin 27 Correct curve
+pin 55 Sharpen complete
 pin 69 Correct curve
-119 OK
 pin 24 Correct curve
+714 OK
 pin 60 Correct curve
-pin 42 Sharpen complete
 pin 84 Correct curve
+pin 11 Sharpen complete
 pin 1 Correct curve
 pin 70 Correct curve
-85 OK
 pin 75 Correct curve
+935 OK
 pin 73 Correct curve
-pin 55 Sharpen complete
 pin 80 Correct curve
+pin 74 Sharpen complete
 pin 48 Correct curve
 pin 39 Correct curve
-714 OK
 pin 73 Correct curve
+187 OK
 pin 48 Correct curve
-pin 11 Sharpen complete
 pin 34 Incorrect curve
+pin 57 Sharpen complete
 pin 84 Correct curve
-935 OK
 pin 75 Correct curve
+1258 OK
 pin 23 Correct curve
-pin 74 Sharpen complete
 pin 20 Correct curve
+pin 50 Sharpen complete
 pin 37 Correct curve
 pin 27 Correct curve
-187 OK
 pin 46 Correct curve
+969 OK
 pin 37 Correct curve
-pin 57 Sharpen complete
 pin 74 Correct curve
+pin 19 Sharpen complete
 pin 27 Correct curve
 pin 96 Correct curve
-1258 OK
 pin 61 Correct curve
+850 OK
 pin 12 Correct curve
-pin 50 Sharpen complete
 pin 1 Correct curve
+pin 70 Sharpen complete
 pin 12 Correct curve
 pin 99 Correct curve
-969 OK
+323 OK
 pin 28 Correct curve
 pin 81 Correct curve
-pin 19 Sharpen complete
+pin 75 Sharpen complete
 pin 23 Correct curve
 pin 88 Correct curve
-850 OK
 pin 66 Correct curve
+1190 OK
 pin 24 Correct curve
-pin 70 Sharpen complete
 pin 59 Correct curve
+pin 18 Sharpen complete
 pin 41 Correct curve
 pin 98 Correct curve
-323 OK
 pin 39 Correct curve
+1275 OK
 pin 90 Correct curve
-pin 75 Sharpen complete
 pin 37 Correct curve
+pin 33 Sharpen complete
 pin 13 Correct curve
 pin 38 Correct curve
-1190 OK
+306 OK
 pin 71 Correct curve
 pin 98 Correct curve
-pin 18 Sharpen complete
+pin 29 Sharpen complete
 pin 14 Correct curve
 pin 95 Correct curve
-1275 OK
 pin 18 Correct curve
+561 OK
 pin 51 Incorrect curve
-pin 33 Sharpen complete
 pin 22 Correct curve
+pin 36 Sharpen complete
 pin 65 Correct curve
 pin 89 Correct curve
-306 OK
 pin 97 Correct curve
+493 OK
 pin 92 Correct curve
-pin 29 Sharpen complete
 pin 85 Incorrect curve
+pin 57 Sharpen complete
 pin 58 Correct curve
 pin 5 Correct curve
-561 OK
 pin 87 Correct curve
+612 OK
 pin 71 Correct curve
-pin 36 Sharpen complete
+pin 72 Sharpen complete
 pin 5 Correct curve
 pin 15 Correct curve
 pin 53 Correct curve
-493 OK
+969 OK
 pin 28 Correct curve
 pin 4 Correct curve
-pin 57 Sharpen complete
+pin 75 Sharpen complete
 pin 20 Correct curve
 pin 53 Correct curve
-612 OK
 pin 64 Correct curve
+792 Incorrect sharpen
 pin 61 Correct curve
-pin 72 Sharpen complete
 pin 52 Correct curve
+pin 70 Sharpen complete
 pin 4 Correct curve
 pin 52 Correct curve
-969 OK
 pin 89 Correct curve
+1275 OK
 pin 18 Correct curve
-pin 75 Sharpen complete
 pin 90 Correct curve
+pin 81 Sharpen complete
 pin 61 Correct curve
 pin 16 Correct curve
-792 Incorrect sharpen
+1190 OK
 pin 4 Correct curve
 pin 56 Correct curve
-pin 70 Sharpen complete
+pin 94 Sharpen complete
 pin 35 Correct curve
 pin 56 Correct curve
-1275 OK
 pin 79 Correct curve
+1377 OK
 pin 0 Incorrect curve
-pin 81 Sharpen complete
 pin 45 Correct curve
+pin 46 Sharpen complete
 pin 76 Correct curve
 pin 93 Correct curve
-1190 OK
 pin 30 Correct curve
+1034 Incorrect sharpen
 pin 35 Correct curve
-pin 94 Sharpen complete
+pin 75 Sharpen complete
 pin 99 Correct curve
 pin 17 Incorrect curve
 pin 6 Correct curve
-1377 OK
+782 OK
 pin 4 Correct curve
 pin 33 Correct curve
-pin 46 Sharpen complete
+pin 40 Sharpen complete
 pin 60 Correct curve
 pin 33 Correct curve
 pin 38 Correct curve
-1034 Incorrect sharpen
+1275 OK
 pin 80 Correct curve
 pin 87 Correct curve
-pin 75 Sharpen complete
+pin 29 Sharpen complete
 pin 3 Correct curve
 pin 42 Correct curve
 pin 39 Correct curve
-782 OK
+680 OK
 pin 7 Correct curve
 pin 94 Correct curve
-pin 40 Sharpen complete
+pin 29 Sharpen complete
 pin 28 Correct curve
 pin 25 Correct curve
-1275 OK
+493 OK
 pin 85 Incorrect curve
 pin 90 Correct curve
-pin 29 Sharpen complete
+pin 30 Sharpen complete
 pin 42 Correct curve
 pin 89 Correct curve
 pin 46 Correct curve
-680 OK
+493 OK
 pin 78 Correct curve
 pin 45 Correct curve
-pin 29 Sharpen complete
+pin 75 Sharpen complete
 pin 25 Correct curve
 pin 79 Correct curve
 pin 90 Correct curve
-493 OK
+510 OK
 pin 2 Correct curve
-pin 30 Sharpen complete
 pin 73 Correct curve
+pin 88 Sharpen complete
 pin 21 Correct curve
 pin 38 Correct curve
-493 OK
+1275 OK
 pin 72 Correct curve
 pin 38 Correct curve
-pin 75 Sharpen complete
+pin 22 Sharpen complete
 pin 45 Correct curve
 pin 77 Correct curve
 pin 72 Correct curve
-510 OK
+1496 OK
 pin 5 Correct curve
-pin 88 Sharpen complete
 pin 10 Correct curve
+pin 83 Sharpen complete
 pin 10 Correct curve
 pin 85 Incorrect curve
-1275 OK
 pin 97 Correct curve
+374 OK
 pin 13 Correct curve
-pin 22 Sharpen complete
 pin 28 Correct curve
+pin 93 Sharpen complete
 pin 37 Correct curve
 pin 21 Correct curve
-1496 OK
+1411 OK
 pin 22 Correct curve
 pin 66 Correct curve
-pin 83 Sharpen complete
+pin 65 Sharpen complete
 pin 47 Correct curve
 pin 7 Correct curve
 pin 56 Correct curve
-374 OK
+1581 OK
 pin 90 Correct curve
 pin 97 Correct curve
-pin 93 Sharpen complete
+pin 38 Sharpen complete
 pin 2 Correct curve
 pin 68 Incorrect curve
-1411 OK
 pin 43 Correct curve
+1105 OK
 pin 28 Correct curve
-pin 65 Sharpen complete
+pin 5 Sharpen complete
 pin 48 Correct curve
 pin 34 Incorrect curve
 pin 31 Correct curve
-1581 OK
+646 OK
 pin 21 Correct curve
 pin 55 Correct curve
-pin 38 Sharpen complete
+pin 39 Sharpen complete
 pin 70 Correct curve
 pin 93 Correct curve
-1105 OK
 pin 94 Correct curve
+85 OK
 pin 15 Correct curve
-pin 5 Sharpen complete
 pin 71 Correct curve
+pin 96 Sharpen complete
 pin 66 Correct curve
 pin 21 Correct curve
-646 OK
 pin 81 Correct curve
+429 Incorrect sharpen
 pin 77 Correct curve
-pin 39 Sharpen complete
 pin 7 Correct curve
+pin 56 Sharpen complete
 pin 79 Correct curve
 pin 91 Correct curve
-85 OK
+1632 OK
 pin 35 Correct curve
 pin 16 Correct curve
-pin 96 Sharpen complete
+pin 59 Sharpen complete
 pin 12 Correct curve
 pin 57 Correct curve
 pin 82 Correct curve
-429 Incorrect sharpen
+616 Incorrect sharpen
 pin 59 Correct curve
 pin 65 Correct curve
-pin 56 Sharpen complete
+pin 66 Sharpen complete
 pin 38 Correct curve
 pin 49 Correct curve
-1632 OK
 pin 62 Correct curve
+1003 OK
 pin 41 Correct curve
-pin 59 Sharpen complete
+pin 31 Sharpen complete
 pin 18 Correct curve
 pin 6 Correct curve
 pin 70 Correct curve
-616 Incorrect sharpen
+1122 OK
 pin 66 Correct curve
 pin 40 Correct curve
-pin 66 Sharpen complete
+pin 78 Sharpen complete
 pin 2 Correct curve
 pin 88 Correct curve
 pin 96 Correct curve
-1003 OK
+527 OK
 pin 72 Correct curve
 pin 82 Correct curve
-pin 31 Sharpen complete
+pin 61 Sharpen complete
 pin 91 Correct curve
 pin 87 Correct curve
-1122 OK
 pin 53 Correct curve
+1326 OK
 pin 58 Correct curve
-pin 78 Sharpen complete
+pin 15 Sharpen complete
 pin 8 Correct curve
 pin 34 Incorrect curve
 pin 35 Correct curve
-527 OK
+1037 OK
 pin 15 Correct curve
 pin 14 Correct curve
-pin 61 Sharpen complete
+pin 57 Sharpen complete
 pin 27 Correct curve
 pin 50 Correct curve
 pin 30 Correct curve
-1326 OK
+255 OK
 pin 39 Correct curve
 pin 8 Correct curve
-pin 15 Sharpen complete
+pin 62 Sharpen complete
 pin 13 Correct curve
 pin 99 Correct curve
+969 OK
 pin 74 Correct curve
-1037 OK
 pin 52 Correct curve
+pin 87 Sharpen complete
 pin 49 Correct curve
-pin 57 Sharpen complete
 pin 37 Correct curve
 pin 94 Correct curve
+1054 OK
 pin 68 Incorrect curve
-255 OK
 pin 43 Correct curve
-pin 62 Sharpen complete
+pin 33 Sharpen complete
 pin 64 Correct curve
 pin 35 Correct curve
 pin 84 Correct curve
-969 OK
+1479 OK
 pin 66 Correct curve
 pin 23 Correct curve
-pin 87 Sharpen complete
+pin 33 Sharpen complete
 pin 80 Correct curve
 pin 38 Correct curve
 pin 5 Correct curve
-1054 OK
+561 OK
 pin 71 Correct curve
 pin 26 Correct curve
-pin 33 Sharpen complete
+pin 28 Sharpen complete
 pin 59 Correct curve
 pin 30 Correct curve
+561 OK
 pin 34 Incorrect curve
-1479 OK
 pin 94 Correct curve
-pin 33 Sharpen complete
+pin 79 Sharpen complete
 pin 65 Correct curve
 pin 50 Correct curve
 pin 8 Correct curve
-561 OK
+476 OK
 pin 93 Correct curve
 pin 1 Correct curve
-pin 28 Sharpen complete
+pin 44 Sharpen complete
 pin 39 Correct curve
 pin 32 Correct curve
 pin 10 Correct curve
-561 OK
+1343 OK
 pin 52 Correct curve
+pin 9 Sharpen complete
 pin 32 Correct curve
-pin 79 Sharpen complete
 pin 84 Correct curve
 pin 5 Correct curve
-476 OK
+748 OK
 pin 81 Correct curve
 pin 21 Correct curve
-pin 44 Sharpen complete
+pin 73 Sharpen complete
 pin 99 Correct curve
 pin 50 Correct curve
 pin 64 Correct curve
-1343 OK
+153 OK
 pin 63 Correct curve
 pin 85 Incorrect curve
-pin 9 Sharpen complete
+pin 98 Sharpen complete
 pin 48 Correct curve
 pin 30 Correct curve
+1241 OK
 pin 8 Correct curve
-748 OK
 pin 29 Correct curve
+pin 62 Sharpen complete
 pin 69 Correct curve
-pin 73 Sharpen complete
 pin 14 Correct curve
 pin 1 Correct curve
+1666 OK
 pin 95 Correct curve
-153 OK
 pin 73 Correct curve
+pin 21 Sharpen complete
 pin 31 Correct curve
-pin 98 Sharpen complete
 pin 30 Correct curve
 pin 67 Correct curve
-1241 OK
+1054 OK
 pin 97 Correct curve
 pin 80 Correct curve
-pin 62 Sharpen complete
+pin 56 Sharpen complete
 pin 75 Correct curve
 pin 90 Correct curve
 pin 82 Correct curve
-1666 OK
+357 OK
 pin 15 Correct curve
 pin 23 Correct curve
-pin 21 Sharpen complete
+pin 86 Sharpen complete
 pin 92 Correct curve
 pin 68 Incorrect curve
+952 OK
 pin 55 Correct curve
-1054 OK
 pin 76 Correct curve
+pin 7 Sharpen complete
 pin 73 Correct curve
-pin 56 Sharpen complete
 pin 37 Correct curve
 pin 97 Correct curve
+1462 OK
 pin 73 Correct curve
-357 OK
 pin 87 Correct curve
-pin 86 Sharpen complete
+pin 62 Sharpen complete
 pin 62 Correct curve
 pin 36 Correct curve
-pin 72 Correct curve
-952 OK
-pin 10 Correct curve
-pin 67 Correct curve
-pin 7 Sharpen complete
-pin 81 Correct curve
-pin 40 Correct curve
-pin 36 Correct curve
-1462 OK
-pin 95 Correct curve
-pin 41 Correct curve
-pin 62 Sharpen complete
-pin 31 Correct curve
-pin 68 Incorrect curve
 pin 72 Correct curve
 119 OK
-pin 62 Correct curve
-pin 36 Correct curve
+pin 10 Correct curve
+pin 67 Correct curve
 pin 26 Sharpen complete
+pin 81 Correct curve
+pin 40 Correct curve
+1054 OK
+pin 36 Correct curve
+pin 95 Correct curve
+pin 3 Sharpen complete
+pin 41 Correct curve
+pin 31 Correct curve
+pin 68 Incorrect curve
+442 OK
+pin 72 Correct curve
+pin 62 Correct curve
+pin 18 Sharpen complete
+pin 36 Correct curve
 pin 69 Correct curve
 pin 42 Correct curve
+51 OK
 pin 11 Correct curve
-1054 OK
 pin 60 Correct curve
-pin 3 Sharpen complete
+pin 86 Sharpen complete
 pin 25 Correct curve
 pin 27 Correct curve
 pin 83 Correct curve
-442 OK
+306 OK
 pin 17 Incorrect curve
+pin 69 Sharpen complete
 pin 95 Correct curve
-pin 18 Sharpen complete
 pin 38 Correct curve
 pin 93 Correct curve
+1462 OK
 pin 69 Correct curve
-51 OK
 pin 75 Correct curve
+pin 49 Sharpen complete
 pin 91 Correct curve
-pin 86 Sharpen complete
 pin 42 Correct curve
 pin 63 Correct curve
+1173 OK
 pin 53 Correct curve
-306 OK
 pin 78 Correct curve
+pin 65 Sharpen complete
 pin 35 Correct curve
-pin 69 Sharpen complete
 pin 64 Correct curve
 pin 46 Correct curve
-1462 OK
+833 OK
 pin 16 Correct curve
 pin 4 Correct curve
-pin 49 Sharpen complete
+pin 69 Sharpen complete
 pin 82 Correct curve
 pin 12 Correct curve
+1105 OK
 pin 46 Correct curve
-1173 OK
 pin 14 Correct curve
+pin 11 Sharpen complete
 pin 81 Correct curve
-pin 65 Sharpen complete
 pin 18 Correct curve
 pin 76 Correct curve
+1173 OK
 pin 17 Incorrect curve
-833 OK
 pin 88 Correct curve
+pin 80 Sharpen complete
 pin 19 Correct curve
-pin 69 Sharpen complete
 pin 29 Correct curve
 pin 49 Correct curve
+187 OK
 pin 44 Correct curve
-1105 OK
 pin 56 Correct curve
+pin 27 Sharpen complete
 pin 32 Correct curve
-pin 11 Sharpen complete
 pin 62 Correct curve
+1360 OK
 pin 51 Incorrect curve
 pin 71 Correct curve
-1173 OK
+pin 74 Sharpen complete
 pin 56 Correct curve
 pin 21 Correct curve
-pin 80 Sharpen complete
 pin 47 Correct curve
+459 OK
 pin 47 Correct curve
 pin 63 Correct curve
-187 OK
+pin 61 Sharpen complete
 pin 10 Correct curve
 pin 1 Correct curve
-pin 27 Sharpen complete
 pin 42 Correct curve
+1258 OK
 pin 46 Correct curve
 pin 66 Correct curve
-1360 OK
+pin 7 Sharpen complete
 pin 88 Correct curve
 pin 62 Correct curve
-pin 74 Sharpen complete
+1037 OK
 pin 71 Correct curve
 pin 71 Correct curve
+pin 37 Sharpen complete
 pin 75 Correct curve
-459 OK
 pin 17 Incorrect curve
-pin 61 Sharpen complete
 pin 85 Incorrect curve
+119 OK
 pin 56 Correct curve
 pin 36 Correct curve
-1258 OK
+pin 89 Sharpen complete
 pin 62 Correct curve
 pin 73 Correct curve
-pin 7 Sharpen complete
-pin 25 Correct curve
-pin 81 Correct curve
-pin 2 Correct curve
-1037 OK
-pin 74 Correct curve
-pin 26 Correct curve
-pin 37 Sharpen complete
-pin 59 Correct curve
-pin 6 Correct curve
-pin 88 Correct curve
-119 OK
-pin 11 Correct curve
-pin 78 Correct curve
-pin 89 Sharpen complete
-pin 44 Correct curve
-pin 32 Correct curve
 pin 25 Correct curve
 629 OK
+pin 81 Correct curve
+pin 2 Correct curve
+pin 87 Sharpen complete
+pin 74 Correct curve
+pin 26 Correct curve
+pin 59 Correct curve
+1513 OK
+pin 6 Correct curve
+pin 88 Correct curve
+pin 81 Sharpen complete
+pin 11 Correct curve
+pin 78 Correct curve
+957 Incorrect sharpen
+pin 44 Correct curve
+pin 32 Correct curve
+pin 58 Sharpen complete
+pin 25 Correct curve
 pin 92 Correct curve
 pin 95 Correct curve
-pin 87 Sharpen complete
+1377 OK
 pin 35 Correct curve
 pin 94 Correct curve
-1513 OK
+pin 96 Sharpen complete
 pin 37 Correct curve
 pin 81 Correct curve
-pin 81 Sharpen complete
 pin 60 Correct curve
+986 OK
 pin 25 Correct curve
 pin 44 Correct curve
-957 Incorrect sharpen
+pin 55 Sharpen complete
 pin 31 Correct curve
 pin 96 Correct curve
-pin 58 Sharpen complete
 pin 19 Correct curve
+1632 OK
 pin 49 Correct curve
 pin 82 Correct curve
-1377 OK
+pin 57 Sharpen complete
 pin 76 Correct curve
 pin 85 Incorrect curve
-pin 96 Sharpen complete
+935 OK
 pin 44 Correct curve
 pin 49 Correct curve
+pin 81 Sharpen complete
 pin 10 Correct curve
-986 OK
 pin 26 Correct curve
 pin 52 Correct curve
-pin 55 Sharpen complete
+969 OK
 pin 85 Incorrect curve
 pin 52 Correct curve
-1632 OK
-pin 57 Sharpen complete
-935 OK
-pin 81 Sharpen complete
-969 OK
 pin 18 Sharpen complete
 1377 OK
 pin 78 Sharpen complete
