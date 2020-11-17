@@ -29,7 +29,7 @@ pthread_rwlock_t firstLock; // блокировка
 pthread_rwlock_t secondLock; // блокировка
 
 
-//стартовая функция потоков-читателей
+//стартовая функция рабочего проверяющего кривизну
 void *funcCheckCurve(void *param) {
     int i = 0;
     while(i < startSize)
@@ -49,7 +49,7 @@ void *funcCheckCurve(void *param) {
     return nullptr;
 }
 
-//стартовая функция потоков-писателей
+//стартовая функция рабочего точильщика
 void* funcSharpen(void *param) {
 
     int current;
@@ -83,6 +83,7 @@ void* funcSharpen(void *param) {
     return nullptr;
 }
 
+// стартовая функция контролера
 void * funcControl(void* param){
     int i = 0;
     while(i < workpieceSize){
