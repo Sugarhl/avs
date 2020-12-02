@@ -1,0 +1,1419 @@
+0 pin 345 Correct curve
+0 raw 345 Sharpen complete
+0 workpiece:5865 OK 
+1 pin 853 Correct curve
+1 raw 853 Sharpen complete
+1 workpiece:14501 OK 
+2 pin 785 Correct curve
+2 raw 785 Sharpen complete
+2 workpiece:13345 OK 
+3 pin 450 Correct curve
+3 raw 450 Sharpen complete
+3 workpiece:7650 OK 
+4 pin 706 Correct curve
+4 raw 706 Sharpen complete
+4 workpiece:12002 OK 
+5 pin 911 Correct curve
+5 raw 911 Sharpen complete
+5 workpiece:15487 OK 
+6 pin 837 Correct curve
+6 raw 837 Sharpen complete
+6 workpiece:14229 OK 
+7 pin 898 Correct curve
+7 raw 898 Sharpen complete
+7 workpiece:15266 OK 
+8 pin 64 Correct curve
+8 raw 64 Sharpen complete
+8 workpiece:1088 OK 
+9 pin 118 Correct curve
+9 raw 118 Sharpen complete
+10 pin 705 Correct curve
+10 raw 705 Sharpen complete
+9 workpiece:11985 OK 
+11 pin 112 Correct curve
+11 raw 112 Sharpen complete
+10 workpiece:1904 OK 
+12 pin 172 Correct curve
+12 raw 172 Sharpen complete
+11 workpiece:2924 OK 
+13 pin 170 Incorrect curve
+12 workpiece:2006 OK 
+14 pin 235 Correct curve
+13 raw 235 Sharpen complete
+15 pin 969 Incorrect curve
+13 workpiece:3995 OK 
+16 pin 149 Correct curve
+14 raw 149 Sharpen complete
+14 workpiece:2533 OK 
+17 pin 251 Correct curve
+15 raw 251 Sharpen complete
+15 workpiece:4267 OK 
+18 pin 604 Correct curve
+16 raw 604 Sharpen complete
+16 workpiece:10268 OK 
+19 pin 204 Incorrect curve
+20 pin 54 Correct curve
+17 raw 54 Sharpen complete
+17 workpiece:918 OK 
+21 pin 262 Correct curve
+18 raw 262 Sharpen complete
+18 workpiece:4454 OK 
+22 pin 896 Correct curve
+19 raw 896 Sharpen complete
+19 workpiece:9856 Incorrect sharpen
+23 pin 712 Correct curve
+20 raw 712 Sharpen complete
+20 workpiece:12104 OK 
+24 pin 158 Correct curve
+21 raw 158 Sharpen complete
+21 workpiece:2686 OK 
+25 pin 424 Correct curve
+22 raw 424 Sharpen complete
+22 workpiece:7208 OK 
+26 pin 417 Correct curve
+23 raw 417 Sharpen complete
+27 pin 737 Correct curve
+24 raw 737 Sharpen complete
+23 workpiece:12529 OK 
+28 pin 946 Correct curve
+25 raw 946 Sharpen complete
+24 workpiece:16082 OK 
+29 pin 297 Correct curve
+26 raw 297 Sharpen complete
+25 workpiece:5049 OK 
+30 pin 74 Correct curve
+27 raw 74 Sharpen complete
+26 workpiece:1258 OK 
+31 pin 634 Correct curve
+28 raw 634 Sharpen complete
+27 workpiece:10778 OK 
+32 pin 681 Correct curve
+29 raw 681 Sharpen complete
+28 workpiece:11577 OK 
+33 pin 998 Correct curve
+30 raw 998 Sharpen complete
+34 pin 546 Correct curve
+31 raw 546 Sharpen complete
+29 workpiece:9282 OK 
+35 pin 591 Correct curve
+32 raw 591 Sharpen complete
+30 workpiece:10047 OK 
+36 pin 372 Correct curve
+33 raw 372 Sharpen complete
+31 workpiece:6324 OK 
+37 pin 827 Correct curve
+34 raw 827 Sharpen complete
+32 workpiece:14059 OK 
+38 pin 466 Correct curve
+35 raw 466 Sharpen complete
+33 workpiece:7922 OK 
+39 pin 628 Correct curve
+36 raw 628 Sharpen complete
+34 workpiece:10676 OK 
+40 pin 838 Correct curve
+37 raw 838 Sharpen complete
+35 workpiece:14246 OK 
+41 pin 8 Correct curve
+38 raw 8 Sharpen complete
+36 workpiece:136 OK 
+42 pin 886 Correct curve
+39 raw 886 Sharpen complete
+37 workpiece:15062 OK 
+43 pin 732 Correct curve
+40 raw 732 Sharpen complete
+44 pin 649 Correct curve
+38 workpiece:12444 OK 
+41 raw 649 Sharpen complete
+45 pin 208 Correct curve
+42 raw 208 Sharpen complete
+39 workpiece:3536 OK 
+46 pin 914 Correct curve
+43 raw 914 Sharpen complete
+40 workpiece:15538 OK 
+47 pin 470 Correct curve
+44 raw 470 Sharpen complete
+41 workpiece:7990 OK 
+48 pin 784 Correct curve
+45 raw 784 Sharpen complete
+42 workpiece:13328 OK 
+49 pin 983 Correct curve
+46 raw 983 Sharpen complete
+43 workpiece:16711 OK 
+50 pin 856 Correct curve
+47 raw 856 Sharpen complete
+44 workpiece:14552 OK 
+51 pin 284 Correct curve
+48 raw 284 Sharpen complete
+45 workpiece:4828 OK 
+52 pin 780 Correct curve
+49 raw 780 Sharpen complete
+46 workpiece:13260 OK 
+53 pin 848 Correct curve
+50 raw 848 Sharpen complete
+47 workpiece:14416 OK 
+54 pin 3 Correct curve
+51 raw 3 Sharpen complete
+48 workpiece:51 OK 
+55 pin 574 Correct curve
+52 raw 574 Sharpen complete
+56 pin 528 Correct curve
+53 raw 528 Sharpen complete
+49 workpiece:8976 OK 
+57 pin 801 Correct curve
+54 raw 801 Sharpen complete
+50 workpiece:13617 OK 
+58 pin 328 Correct curve
+55 raw 328 Sharpen complete
+51 workpiece:5576 OK 
+59 pin 600 Correct curve
+56 raw 600 Sharpen complete
+52 workpiece:10200 OK 
+60 pin 563 Correct curve
+57 raw 563 Sharpen complete
+53 workpiece:9571 OK 
+61 pin 405 Correct curve
+58 raw 405 Sharpen complete
+54 workpiece:6885 OK 
+62 pin 651 Correct curve
+59 raw 651 Sharpen complete
+55 workpiece:11067 OK 
+63 pin 777 Correct curve
+60 raw 777 Sharpen complete
+56 workpiece:13209 OK 
+64 pin 696 Correct curve
+61 raw 696 Sharpen complete
+57 workpiece:7656 Incorrect sharpen
+65 pin 470 Correct curve
+62 raw 470 Sharpen complete
+66 pin 38 Correct curve
+58 workpiece:7990 OK 
+63 raw 38 Sharpen complete
+67 pin 484 Correct curve
+64 raw 484 Sharpen complete
+59 workpiece:8228 OK 
+68 pin 218 Correct curve
+65 raw 218 Sharpen complete
+60 workpiece:3706 OK 
+69 pin 417 Correct curve
+66 raw 417 Sharpen complete
+61 workpiece:7089 OK 
+70 pin 808 Correct curve
+67 raw 808 Sharpen complete
+62 workpiece:13736 OK 
+71 pin 414 Correct curve
+68 raw 414 Sharpen complete
+63 workpiece:7038 OK 
+72 pin 926 Correct curve
+69 raw 926 Sharpen complete
+64 workpiece:15742 OK 
+73 pin 456 Correct curve
+70 raw 456 Sharpen complete
+65 workpiece:7752 OK 
+74 pin 750 Correct curve
+71 raw 750 Sharpen complete
+66 workpiece:12750 OK 
+75 pin 936 Correct curve
+72 raw 936 Sharpen complete
+67 workpiece:15912 OK 
+76 pin 864 Correct curve
+73 raw 864 Sharpen complete
+68 workpiece:14688 OK 
+77 pin 495 Correct curve
+74 raw 495 Sharpen complete
+69 workpiece:8415 OK 
+78 pin 568 Correct curve
+75 raw 568 Sharpen complete
+70 workpiece:9656 OK 
+79 pin 655 Correct curve
+76 raw 655 Sharpen complete
+71 workpiece:11135 OK 
+80 pin 384 Correct curve
+77 raw 384 Sharpen complete
+81 pin 521 Correct curve
+78 raw 521 Sharpen complete
+72 workpiece:8857 OK 
+82 pin 232 Correct curve
+79 raw 232 Sharpen complete
+73 workpiece:3944 OK 
+83 pin 593 Correct curve
+80 raw 593 Sharpen complete
+74 workpiece:6523 Incorrect sharpen
+84 pin 338 Correct curve
+81 raw 338 Sharpen complete
+75 workpiece:5746 OK 
+85 pin 23 Correct curve
+82 raw 23 Sharpen complete
+76 workpiece:391 OK 
+86 pin 707 Correct curve
+83 raw 707 Sharpen complete
+77 workpiece:12019 OK 
+87 pin 188 Correct curve
+84 raw 188 Sharpen complete
+78 workpiece:3196 OK 
+88 pin 5 Correct curve
+85 raw 5 Sharpen complete
+79 workpiece:85 OK 
+89 pin 592 Correct curve
+86 raw 592 Sharpen complete
+80 workpiece:10064 OK 
+90 pin 700 Correct curve
+87 raw 700 Sharpen complete
+81 workpiece:11900 OK 
+91 pin 773 Correct curve
+88 raw 773 Sharpen complete
+82 workpiece:13141 OK 
+92 pin 221 Incorrect curve
+93 pin 268 Correct curve
+89 raw 268 Sharpen complete
+83 workpiece:4556 OK 
+94 pin 141 Correct curve
+90 raw 141 Sharpen complete
+84 workpiece:2397 OK 
+95 pin 791 Correct curve
+91 raw 791 Sharpen complete
+85 workpiece:13447 OK 
+96 pin 276 Correct curve
+92 raw 276 Sharpen complete
+86 workpiece:4692 OK 
+97 pin 280 Correct curve
+93 raw 280 Sharpen complete
+87 workpiece:3080 Incorrect sharpen
+98 pin 500 Correct curve
+94 raw 500 Sharpen complete
+88 workpiece:8500 OK 
+99 pin 644 Correct curve
+95 raw 644 Sharpen complete
+89 workpiece:10948 OK 
+100 pin 976 Correct curve
+96 raw 976 Sharpen complete
+90 workpiece:16592 OK 
+101 pin 325 Correct curve
+97 raw 325 Sharpen complete
+91 workpiece:5525 OK 
+102 pin 66 Correct curve
+98 raw 66 Sharpen complete
+92 workpiece:1122 OK 
+103 pin 15 Correct curve
+99 raw 15 Sharpen complete
+93 workpiece:255 OK 
+104 pin 120 Correct curve
+100 raw 120 Sharpen complete
+94 workpiece:2040 OK 
+105 pin 643 Correct curve
+101 raw 643 Sharpen complete
+95 workpiece:10931 OK 
+106 pin 711 Correct curve
+102 raw 711 Sharpen complete
+96 workpiece:12087 OK 
+107 pin 353 Correct curve
+103 raw 353 Sharpen complete
+97 workpiece:6001 OK 
+108 pin 96 Correct curve
+104 raw 96 Sharpen complete
+98 workpiece:1632 OK 
+109 pin 764 Correct curve
+105 raw 764 Sharpen complete
+110 pin 865 Correct curve
+106 raw 865 Sharpen complete
+99 workpiece:14705 OK 
+111 pin 348 Correct curve
+107 raw 348 Sharpen complete
+100 workpiece:5916 OK 
+112 pin 823 Correct curve
+108 raw 823 Sharpen complete
+101 workpiece:9053 Incorrect sharpen
+113 pin 895 Correct curve
+109 raw 895 Sharpen complete
+102 workpiece:15215 OK 
+114 pin 618 Correct curve
+110 raw 618 Sharpen complete
+103 workpiece:10506 OK 
+115 pin 626 Correct curve
+111 raw 626 Sharpen complete
+116 pin 898 Correct curve
+112 raw 898 Sharpen complete
+104 workpiece:15266 OK 
+117 pin 774 Correct curve
+113 raw 774 Sharpen complete
+105 workpiece:13158 OK 
+118 pin 419 Correct curve
+114 raw 419 Sharpen complete
+106 workpiece:4609 Incorrect sharpen
+119 pin 368 Correct curve
+115 raw 368 Sharpen complete
+107 workpiece:6256 OK 
+120 pin 801 Correct curve
+116 raw 801 Sharpen complete
+108 workpiece:13617 OK 
+121 pin 119 Incorrect curve
+122 pin 513 Correct curve
+117 raw 513 Sharpen complete
+109 workpiece:8721 OK 
+123 pin 824 Correct curve
+118 raw 824 Sharpen complete
+110 workpiece:14008 OK 
+124 pin 335 Correct curve
+119 raw 335 Sharpen complete
+111 workpiece:5695 OK 
+125 pin 257 Correct curve
+120 raw 257 Sharpen complete
+112 workpiece:4369 OK 
+126 pin 14 Correct curve
+121 raw 14 Sharpen complete
+113 workpiece:238 OK 
+127 pin 274 Correct curve
+122 raw 274 Sharpen complete
+114 workpiece:4658 OK 
+128 pin 987 Correct curve
+123 raw 987 Sharpen complete
+115 workpiece:16779 OK 
+129 pin 755 Correct curve
+124 raw 755 Sharpen complete
+116 workpiece:12835 OK 
+130 pin 225 Correct curve
+125 raw 225 Sharpen complete
+131 pin 290 Correct curve
+126 raw 290 Sharpen complete
+117 workpiece:4930 OK 
+132 pin 897 Correct curve
+127 raw 897 Sharpen complete
+118 workpiece:15249 OK 
+133 pin 298 Correct curve
+128 raw 298 Sharpen complete
+119 workpiece:5066 OK 
+134 pin 13 Correct curve
+129 raw 13 Sharpen complete
+120 workpiece:143 Incorrect sharpen
+135 pin 933 Correct curve
+130 raw 933 Sharpen complete
+121 workpiece:15861 OK 
+136 pin 594 Correct curve
+131 raw 594 Sharpen complete
+122 workpiece:10098 OK 
+137 pin 376 Correct curve
+132 raw 376 Sharpen complete
+123 workpiece:6392 OK 
+138 pin 536 Correct curve
+133 raw 536 Sharpen complete
+124 workpiece:5896 Incorrect sharpen
+139 pin 952 Incorrect curve
+140 pin 871 Correct curve
+134 raw 871 Sharpen complete
+125 workpiece:9581 Incorrect sharpen
+141 pin 209 Correct curve
+135 raw 209 Sharpen complete
+126 workpiece:3553 OK 
+142 pin 364 Correct curve
+136 raw 364 Sharpen complete
+127 workpiece:6188 OK 
+143 pin 423 Correct curve
+137 raw 423 Sharpen complete
+128 workpiece:7191 OK 
+144 pin 360 Correct curve
+138 raw 360 Sharpen complete
+129 workpiece:6120 OK 
+145 pin 331 Correct curve
+139 raw 331 Sharpen complete
+130 workpiece:5627 OK 
+146 pin 254 Correct curve
+140 raw 254 Sharpen complete
+131 workpiece:4318 OK 
+147 pin 314 Correct curve
+141 raw 314 Sharpen complete
+132 workpiece:3454 Incorrect sharpen
+148 pin 874 Correct curve
+142 raw 874 Sharpen complete
+133 workpiece:14858 OK 
+149 pin 781 Correct curve
+143 raw 781 Sharpen complete
+150 pin 273 Correct curve
+144 raw 273 Sharpen complete
+134 workpiece:4641 OK 
+151 pin 373 Correct curve
+145 raw 373 Sharpen complete
+135 workpiece:6341 OK 
+152 pin 167 Correct curve
+146 raw 167 Sharpen complete
+136 workpiece:1837 Incorrect sharpen
+153 pin 257 Correct curve
+147 raw 257 Sharpen complete
+137 workpiece:4369 OK 
+154 pin 206 Correct curve
+148 raw 206 Sharpen complete
+138 workpiece:2266 Incorrect sharpen
+155 pin 226 Correct curve
+149 raw 226 Sharpen complete
+139 workpiece:2486 Incorrect sharpen
+156 pin 160 Correct curve
+150 raw 160 Sharpen complete
+140 workpiece:2720 OK 
+157 pin 579 Correct curve
+151 raw 579 Sharpen complete
+141 workpiece:9843 OK 
+158 pin 512 Correct curve
+152 raw 512 Sharpen complete
+142 workpiece:8704 OK 
+159 pin 100 Correct curve
+153 raw 100 Sharpen complete
+143 workpiece:1700 OK 
+160 pin 31 Correct curve
+154 raw 31 Sharpen complete
+144 workpiece:527 OK 
+161 pin 249 Correct curve
+155 raw 249 Sharpen complete
+145 workpiece:4233 OK 
+162 pin 761 Correct curve
+156 raw 761 Sharpen complete
+146 workpiece:12937 OK 
+163 pin 120 Correct curve
+157 raw 120 Sharpen complete
+147 workpiece:2040 OK 
+164 pin 823 Correct curve
+158 raw 823 Sharpen complete
+148 workpiece:13991 OK 
+165 pin 427 Correct curve
+159 raw 427 Sharpen complete
+149 workpiece:7259 OK 
+166 pin 475 Correct curve
+160 raw 475 Sharpen complete
+150 workpiece:8075 OK 
+167 pin 977 Correct curve
+161 raw 977 Sharpen complete
+151 workpiece:16609 OK 
+168 pin 471 Correct curve
+162 raw 471 Sharpen complete
+152 workpiece:8007 OK 
+169 pin 269 Correct curve
+163 raw 269 Sharpen complete
+153 workpiece:2959 Incorrect sharpen
+170 pin 45 Correct curve
+164 raw 45 Sharpen complete
+154 workpiece:765 OK 
+171 pin 460 Correct curve
+165 raw 460 Sharpen complete
+155 workpiece:7820 OK 
+172 pin 635 Correct curve
+166 raw 635 Sharpen complete
+173 pin 433 Correct curve
+156 workpiece:10795 OK 
+167 raw 433 Sharpen complete
+174 pin 393 Correct curve
+168 raw 393 Sharpen complete
+157 workpiece:6681 OK 
+175 pin 724 Correct curve
+169 raw 724 Sharpen complete
+158 workpiece:12308 OK 
+176 pin 669 Correct curve
+170 raw 669 Sharpen complete
+159 workpiece:11373 OK 
+177 pin 766 Correct curve
+171 raw 766 Sharpen complete
+160 workpiece:8426 Incorrect sharpen
+178 pin 888 Correct curve
+172 raw 888 Sharpen complete
+161 workpiece:15096 OK 
+179 pin 418 Correct curve
+173 raw 418 Sharpen complete
+162 workpiece:7106 OK 
+180 pin 140 Correct curve
+174 raw 140 Sharpen complete
+181 pin 159 Correct curve
+163 workpiece:2380 OK 
+175 raw 159 Sharpen complete
+182 pin 998 Correct curve
+176 raw 998 Sharpen complete
+164 workpiece:16966 OK 
+183 pin 258 Correct curve
+177 raw 258 Sharpen complete
+165 workpiece:2838 Incorrect sharpen
+184 pin 724 Correct curve
+178 raw 724 Sharpen complete
+166 workpiece:12308 OK 
+185 pin 500 Correct curve
+179 raw 500 Sharpen complete
+167 workpiece:8500 OK 
+186 pin 726 Correct curve
+180 raw 726 Sharpen complete
+168 workpiece:12342 OK 
+187 pin 678 Correct curve
+181 raw 678 Sharpen complete
+169 workpiece:11526 OK 
+188 pin 55 Correct curve
+182 raw 55 Sharpen complete
+170 workpiece:935 OK 
+189 pin 213 Correct curve
+183 raw 213 Sharpen complete
+171 workpiece:2343 Incorrect sharpen
+190 pin 997 Correct curve
+184 raw 997 Sharpen complete
+191 pin 928 Correct curve
+185 raw 928 Sharpen complete
+172 workpiece:15776 OK 
+192 pin 263 Correct curve
+186 raw 263 Sharpen complete
+173 workpiece:4471 OK 
+193 pin 801 Correct curve
+187 raw 801 Sharpen complete
+174 workpiece:13617 OK 
+194 pin 934 Correct curve
+188 raw 934 Sharpen complete
+175 workpiece:15878 OK 
+195 pin 863 Correct curve
+189 raw 863 Sharpen complete
+176 workpiece:14671 OK 
+196 pin 769 Correct curve
+190 raw 769 Sharpen complete
+177 workpiece:13073 OK 
+197 pin 42 Correct curve
+191 raw 42 Sharpen complete
+198 pin 863 Correct curve
+192 raw 863 Sharpen complete
+178 workpiece:14671 OK 
+199 pin 237 Correct curve
+193 raw 237 Sharpen complete
+179 workpiece:4029 OK 
+200 pin 531 Correct curve
+194 raw 531 Sharpen complete
+180 workpiece:9027 OK 
+201 pin 708 Correct curve
+195 raw 708 Sharpen complete
+181 workpiece:12036 OK 
+202 pin 753 Correct curve
+196 raw 753 Sharpen complete
+182 workpiece:12801 OK 
+203 pin 323 Incorrect curve
+204 pin 808 Correct curve
+197 raw 808 Sharpen complete
+183 workpiece:13736 OK 
+205 pin 536 Correct curve
+198 raw 536 Sharpen complete
+184 workpiece:9112 OK 
+206 pin 847 Correct curve
+199 raw 847 Sharpen complete
+185 workpiece:14399 OK 
+207 pin 889 Correct curve
+200 raw 889 Sharpen complete
+186 workpiece:15113 OK 
+208 pin 88 Correct curve
+201 raw 88 Sharpen complete
+187 workpiece:1496 OK 
+209 pin 668 Correct curve
+202 raw 668 Sharpen complete
+188 workpiece:7348 Incorrect sharpen
+210 pin 870 Correct curve
+203 raw 870 Sharpen complete
+211 pin 455 Correct curve
+204 raw 455 Sharpen complete
+189 workpiece:7735 OK 
+212 pin 8 Correct curve
+205 raw 8 Sharpen complete
+190 workpiece:136 OK 
+213 pin 690 Correct curve
+206 raw 690 Sharpen complete
+191 workpiece:11730 OK 
+214 pin 45 Correct curve
+207 raw 45 Sharpen complete
+192 workpiece:765 OK 
+215 pin 365 Correct curve
+208 raw 365 Sharpen complete
+193 workpiece:6205 OK 
+216 pin 225 Correct curve
+209 raw 225 Sharpen complete
+194 workpiece:3825 OK 
+217 pin 341 Correct curve
+210 raw 341 Sharpen complete
+195 workpiece:5797 OK 
+218 pin 560 Correct curve
+211 raw 560 Sharpen complete
+196 workpiece:9520 OK 
+219 pin 158 Correct curve
+212 raw 158 Sharpen complete
+197 workpiece:2686 OK 
+220 pin 577 Correct curve
+213 raw 577 Sharpen complete
+221 pin 681 Correct curve
+214 raw 681 Sharpen complete
+198 workpiece:11577 OK 
+222 pin 871 Correct curve
+215 raw 871 Sharpen complete
+199 workpiece:9581 Incorrect sharpen
+223 pin 643 Correct curve
+216 raw 643 Sharpen complete
+200 workpiece:7073 Incorrect sharpen
+224 pin 506 Correct curve
+217 raw 506 Sharpen complete
+201 workpiece:8602 OK 
+225 pin 552 Correct curve
+218 raw 552 Sharpen complete
+202 workpiece:9384 OK 
+226 pin 903 Correct curve
+219 raw 903 Sharpen complete
+203 workpiece:15351 OK 
+227 pin 377 Correct curve
+220 raw 377 Sharpen complete
+228 pin 892 Correct curve
+221 raw 892 Sharpen complete
+204 workpiece:15164 OK 
+229 pin 39 Correct curve
+222 raw 39 Sharpen complete
+205 workpiece:663 OK 
+230 pin 114 Correct curve
+223 raw 114 Sharpen complete
+206 workpiece:1938 OK 
+231 pin 922 Correct curve
+224 raw 922 Sharpen complete
+207 workpiece:15674 OK 
+232 pin 564 Correct curve
+225 raw 564 Sharpen complete
+208 workpiece:9588 OK 
+233 pin 526 Correct curve
+226 raw 526 Sharpen complete
+209 workpiece:8942 OK 
+234 pin 342 Correct curve
+227 raw 342 Sharpen complete
+210 workpiece:5814 OK 
+235 pin 197 Correct curve
+228 raw 197 Sharpen complete
+211 workpiece:3349 OK 
+236 pin 730 Correct curve
+229 raw 730 Sharpen complete
+212 workpiece:12410 OK 
+237 pin 697 Incorrect curve
+238 pin 954 Correct curve
+230 raw 954 Sharpen complete
+213 workpiece:16218 OK 
+239 pin 340 Incorrect curve
+214 workpiece:6409 OK 
+240 pin 266 Correct curve
+231 raw 266 Sharpen complete
+241 pin 4 Correct curve
+232 raw 4 Sharpen complete
+215 workpiece:44 Incorrect sharpen
+242 pin 740 Correct curve
+233 raw 740 Sharpen complete
+216 workpiece:12580 OK 
+243 pin 529 Correct curve
+234 raw 529 Sharpen complete
+217 workpiece:8993 OK 
+244 pin 170 Incorrect curve
+218 workpiece:2926 Incorrect sharpen
+245 pin 773 Correct curve
+235 raw 773 Sharpen complete
+219 workpiece:13141 OK 
+246 pin 210 Correct curve
+236 raw 210 Sharpen complete
+247 pin 3 Correct curve
+237 raw 3 Sharpen complete
+220 workpiece:51 OK 
+248 pin 633 Correct curve
+238 raw 633 Sharpen complete
+221 workpiece:10761 OK 
+249 pin 531 Correct curve
+239 raw 531 Sharpen complete
+222 workpiece:9027 OK 
+250 pin 221 Incorrect curve
+223 workpiece:3570 OK 
+251 pin 7 Correct curve
+240 raw 7 Sharpen complete
+224 workpiece:119 OK 
+252 pin 905 Correct curve
+241 raw 905 Sharpen complete
+253 pin 214 Correct curve
+242 raw 214 Sharpen complete
+225 workpiece:3638 OK 
+254 pin 788 Correct curve
+243 raw 788 Sharpen complete
+226 workpiece:13396 OK 
+255 pin 942 Correct curve
+244 raw 942 Sharpen complete
+227 workpiece:16014 OK 
+256 pin 956 Correct curve
+245 raw 956 Sharpen complete
+228 workpiece:10516 Incorrect sharpen
+257 pin 953 Correct curve
+246 raw 953 Sharpen complete
+229 workpiece:10483 Incorrect sharpen
+258 pin 730 Correct curve
+247 raw 730 Sharpen complete
+259 pin 867 Incorrect curve
+230 workpiece:12410 OK 
+260 pin 611 Correct curve
+248 raw 611 Sharpen complete
+231 workpiece:10387 OK 
+261 pin 37 Correct curve
+249 raw 37 Sharpen complete
+232 workpiece:629 OK 
+262 pin 404 Correct curve
+250 raw 404 Sharpen complete
+233 workpiece:6868 OK 
+263 pin 447 Correct curve
+251 raw 447 Sharpen complete
+234 workpiece:7599 OK 
+264 pin 566 Correct curve
+252 raw 566 Sharpen complete
+235 workpiece:6226 Incorrect sharpen
+265 pin 102 Incorrect curve
+266 pin 449 Correct curve
+253 raw 449 Sharpen complete
+236 workpiece:4939 Incorrect sharpen
+267 pin 323 Incorrect curve
+237 workpiece:15385 OK 
+268 pin 809 Correct curve
+254 raw 809 Sharpen complete
+238 workpiece:13753 OK 
+269 pin 580 Correct curve
+255 raw 580 Sharpen complete
+239 workpiece:9860 OK 
+270 pin 541 Correct curve
+256 raw 541 Sharpen complete
+240 workpiece:5951 Incorrect sharpen
+271 pin 154 Correct curve
+257 raw 154 Sharpen complete
+272 pin 214 Correct curve
+258 raw 214 Sharpen complete
+241 workpiece:3638 OK 
+273 pin 761 Correct curve
+259 raw 761 Sharpen complete
+242 workpiece:12937 OK 
+274 pin 753 Correct curve
+260 raw 753 Sharpen complete
+243 workpiece:12801 OK 
+275 pin 504 Correct curve
+261 raw 504 Sharpen complete
+244 workpiece:8568 OK 
+276 pin 292 Correct curve
+262 raw 292 Sharpen complete
+277 pin 314 Correct curve
+263 raw 314 Sharpen complete
+245 workpiece:5338 OK 
+278 pin 500 Correct curve
+264 raw 500 Sharpen complete
+246 workpiece:8500 OK 
+279 pin 281 Correct curve
+265 raw 281 Sharpen complete
+247 workpiece:4777 OK 
+280 pin 478 Correct curve
+266 raw 478 Sharpen complete
+248 workpiece:8126 OK 
+281 pin 380 Correct curve
+267 raw 380 Sharpen complete
+249 workpiece:6460 OK 
+282 pin 649 Correct curve
+268 raw 649 Sharpen complete
+250 workpiece:11033 OK 
+283 pin 255 Incorrect curve
+284 pin 458 Correct curve
+269 raw 458 Sharpen complete
+251 workpiece:7786 OK 
+285 pin 188 Correct curve
+270 raw 188 Sharpen complete
+252 workpiece:3196 OK 
+286 pin 929 Correct curve
+271 raw 929 Sharpen complete
+253 workpiece:15793 OK 
+287 pin 682 Correct curve
+272 raw 682 Sharpen complete
+254 workpiece:11594 OK 
+288 pin 323 Incorrect curve
+255 workpiece:4964 OK 
+289 pin 129 Correct curve
+273 raw 129 Sharpen complete
+256 workpiece:2193 OK 
+290 pin 97 Correct curve
+274 raw 97 Sharpen complete
+291 pin 272 Incorrect curve
+257 workpiece:1649 OK 
+292 pin 954 Correct curve
+275 raw 954 Sharpen complete
+258 workpiece:16218 OK 
+293 pin 916 Correct curve
+276 raw 916 Sharpen complete
+259 workpiece:15572 OK 
+294 pin 348 Correct curve
+277 raw 348 Sharpen complete
+260 workpiece:5916 OK 
+295 pin 273 Correct curve
+278 raw 273 Sharpen complete
+261 workpiece:4641 OK 
+296 pin 878 Correct curve
+279 raw 878 Sharpen complete
+262 workpiece:14926 OK 
+297 pin 249 Correct curve
+280 raw 249 Sharpen complete
+263 workpiece:2739 Incorrect sharpen
+298 pin 305 Correct curve
+281 raw 305 Sharpen complete
+299 pin 79 Correct curve
+282 raw 79 Sharpen complete
+264 workpiece:1343 OK 
+300 pin 789 Correct curve
+283 raw 789 Sharpen complete
+265 workpiece:13413 OK 
+301 pin 457 Correct curve
+284 raw 457 Sharpen complete
+266 workpiece:7769 OK 
+302 pin 65 Correct curve
+267 workpiece:5185 OK 
+285 raw 65 Sharpen complete
+303 pin 86 Correct curve
+286 raw 86 Sharpen complete
+268 workpiece:1462 OK 
+304 pin 176 Correct curve
+287 raw 176 Sharpen complete
+269 workpiece:2992 OK 
+305 pin 228 Correct curve
+288 raw 228 Sharpen complete
+270 workpiece:3876 OK 
+306 pin 210 Correct curve
+289 raw 210 Sharpen complete
+271 workpiece:3570 OK 
+307 pin 999 Correct curve
+290 raw 999 Sharpen complete
+272 workpiece:16983 OK 
+308 pin 848 Correct curve
+291 raw 848 Sharpen complete
+273 workpiece:14416 OK 
+309 pin 586 Correct curve
+292 raw 586 Sharpen complete
+310 pin 512 Correct curve
+293 raw 512 Sharpen complete
+274 workpiece:8704 OK 
+311 pin 319 Correct curve
+294 raw 319 Sharpen complete
+275 workpiece:5423 OK 
+312 pin 432 Correct curve
+295 raw 432 Sharpen complete
+276 workpiece:7344 OK 
+313 pin 173 Correct curve
+296 raw 173 Sharpen complete
+277 workpiece:2941 OK 
+314 pin 751 Correct curve
+297 raw 751 Sharpen complete
+278 workpiece:12767 OK 
+315 pin 807 Correct curve
+298 raw 807 Sharpen complete
+279 workpiece:8877 Incorrect sharpen
+316 pin 493 Incorrect curve
+317 pin 616 Correct curve
+299 raw 616 Sharpen complete
+280 workpiece:6776 Incorrect sharpen
+281 workpiece:9962 OK 
+318 pin 910 Correct curve
+300 raw 910 Sharpen complete
+319 pin 956 Correct curve
+301 raw 956 Sharpen complete
+282 workpiece:16252 OK 
+283 workpiece:15470 OK 
+320 pin 882 Correct curve
+302 raw 882 Sharpen complete
+321 pin 589 Correct curve
+303 raw 589 Sharpen complete
+284 workpiece:10013 OK 
+322 pin 279 Correct curve
+304 raw 279 Sharpen complete
+285 workpiece:4743 OK 
+323 pin 256 Correct curve
+305 raw 256 Sharpen complete
+286 workpiece:4352 OK 
+324 pin 253 Correct curve
+306 raw 253 Sharpen complete
+287 workpiece:4301 OK 
+325 pin 382 Correct curve
+307 raw 382 Sharpen complete
+288 workpiece:6494 OK 
+326 pin 35 Correct curve
+308 raw 35 Sharpen complete
+289 workpiece:595 OK 
+327 pin 121 Correct curve
+309 raw 121 Sharpen complete
+290 workpiece:2057 OK 
+328 pin 378 Correct curve
+310 raw 378 Sharpen complete
+329 pin 951 Correct curve
+311 raw 951 Sharpen complete
+291 workpiece:16167 OK 
+330 pin 793 Correct curve
+312 raw 793 Sharpen complete
+292 workpiece:13481 OK 
+331 pin 626 Correct curve
+293 workpiece:4158 Incorrect sharpen
+313 raw 626 Sharpen complete
+294 workpiece:10642 OK 
+332 pin 752 Correct curve
+314 raw 752 Sharpen complete
+333 pin 555 Correct curve
+315 raw 555 Sharpen complete
+295 workpiece:9435 OK 
+334 pin 948 Correct curve
+316 raw 948 Sharpen complete
+296 workpiece:16116 OK 
+335 pin 23 Correct curve
+317 raw 23 Sharpen complete
+297 workpiece:253 Incorrect sharpen
+336 pin 284 Correct curve
+318 raw 284 Sharpen complete
+298 workpiece:4828 OK 
+337 pin 87 Correct curve
+319 raw 87 Sharpen complete
+299 workpiece:1479 OK 
+338 pin 17 Incorrect curve
+339 pin 695 Correct curve
+320 raw 695 Sharpen complete
+300 workpiece:7645 Incorrect sharpen
+340 pin 270 Correct curve
+321 raw 270 Sharpen complete
+301 workpiece:4590 OK 
+341 pin 94 Correct curve
+322 raw 94 Sharpen complete
+302 workpiece:1598 OK 
+342 pin 254 Correct curve
+323 raw 254 Sharpen complete
+303 workpiece:4318 OK 
+343 pin 545 Correct curve
+324 raw 545 Sharpen complete
+304 workpiece:9265 OK 
+344 pin 417 Correct curve
+325 raw 417 Sharpen complete
+305 workpiece:7089 OK 
+345 pin 336 Correct curve
+326 raw 336 Sharpen complete
+306 workpiece:5712 OK 
+346 pin 732 Correct curve
+327 raw 732 Sharpen complete
+347 pin 863 Correct curve
+328 raw 863 Sharpen complete
+307 workpiece:14671 OK 
+348 pin 996 Correct curve
+329 raw 996 Sharpen complete
+308 workpiece:16932 OK 
+349 pin 325 Correct curve
+330 raw 325 Sharpen complete
+309 workpiece:3575 Incorrect sharpen
+350 pin 406 Correct curve
+331 raw 406 Sharpen complete
+310 workpiece:4466 Incorrect sharpen
+351 pin 34 Incorrect curve
+311 workpiece:12444 OK 
+352 pin 237 Correct curve
+332 raw 237 Sharpen complete
+312 workpiece:4029 OK 
+353 pin 999 Correct curve
+333 raw 999 Sharpen complete
+313 workpiece:16983 OK 
+354 pin 741 Correct curve
+334 raw 741 Sharpen complete
+314 workpiece:12597 OK 
+355 pin 372 Correct curve
+335 raw 372 Sharpen complete
+356 pin 991 Correct curve
+315 workpiece:6324 OK 
+336 raw 991 Sharpen complete
+357 pin 547 Correct curve
+337 raw 547 Sharpen complete
+316 workpiece:9299 OK 
+358 pin 196 Correct curve
+338 raw 196 Sharpen complete
+317 workpiece:3332 OK 
+359 pin 960 Correct curve
+339 raw 960 Sharpen complete
+318 workpiece:16320 OK 
+360 pin 356 Correct curve
+340 raw 356 Sharpen complete
+319 workpiece:6052 OK 
+320 workpiece:16847 OK 
+361 pin 917 Correct curve
+341 raw 917 Sharpen complete
+362 pin 631 Correct curve
+342 raw 631 Sharpen complete
+321 workpiece:10727 OK 
+363 pin 808 Correct curve
+343 raw 808 Sharpen complete
+322 workpiece:8888 Incorrect sharpen
+364 pin 860 Correct curve
+344 raw 860 Sharpen complete
+323 workpiece:14620 OK 
+365 pin 725 Correct curve
+345 raw 725 Sharpen complete
+324 workpiece:12325 OK 
+366 pin 673 Correct curve
+346 raw 673 Sharpen complete
+325 workpiece:11441 OK 
+367 pin 257 Correct curve
+347 raw 257 Sharpen complete
+326 workpiece:2827 Incorrect sharpen
+368 pin 795 Correct curve
+348 raw 795 Sharpen complete
+369 pin 586 Correct curve
+349 raw 586 Sharpen complete
+327 workpiece:9962 OK 
+370 pin 976 Correct curve
+350 raw 976 Sharpen complete
+328 workpiece:10736 Incorrect sharpen
+371 pin 989 Correct curve
+351 raw 989 Sharpen complete
+329 workpiece:16813 OK 
+372 pin 253 Correct curve
+352 raw 253 Sharpen complete
+330 workpiece:4301 OK 
+373 pin 734 Correct curve
+353 raw 734 Sharpen complete
+374 pin 474 Correct curve
+331 workpiece:12478 OK 
+354 raw 474 Sharpen complete
+375 pin 382 Correct curve
+355 raw 382 Sharpen complete
+332 workpiece:6494 OK 
+376 pin 945 Correct curve
+356 raw 945 Sharpen complete
+333 workpiece:16065 OK 
+377 pin 127 Correct curve
+357 raw 127 Sharpen complete
+334 workpiece:2159 OK 
+378 pin 516 Correct curve
+358 raw 516 Sharpen complete
+335 workpiece:8772 OK 
+379 pin 329 Correct curve
+359 raw 329 Sharpen complete
+336 workpiece:5593 OK 
+380 pin 202 Correct curve
+360 raw 202 Sharpen complete
+337 workpiece:3434 OK 
+381 pin 599 Correct curve
+361 raw 599 Sharpen complete
+338 workpiece:10183 OK 
+382 pin 24 Correct curve
+362 raw 24 Sharpen complete
+383 pin 137 Correct curve
+363 raw 137 Sharpen complete
+339 workpiece:2329 OK 
+384 pin 168 Correct curve
+364 raw 168 Sharpen complete
+340 workpiece:2856 OK 
+385 pin 355 Correct curve
+365 raw 355 Sharpen complete
+386 pin 386 Correct curve
+366 raw 386 Sharpen complete
+341 workpiece:6562 OK 
+387 pin 464 Correct curve
+367 raw 464 Sharpen complete
+342 workpiece:7888 OK 
+388 pin 584 Correct curve
+368 raw 584 Sharpen complete
+343 workpiece:9928 OK 
+389 pin 793 Correct curve
+369 raw 793 Sharpen complete
+344 workpiece:13481 OK 
+390 pin 597 Correct curve
+370 raw 597 Sharpen complete
+345 workpiece:10149 OK 
+391 pin 593 Correct curve
+371 raw 593 Sharpen complete
+392 pin 531 Correct curve
+372 raw 531 Sharpen complete
+346 workpiece:9027 OK 
+393 pin 823 Correct curve
+373 raw 823 Sharpen complete
+347 workpiece:13991 OK 
+394 pin 9 Correct curve
+374 raw 9 Sharpen complete
+348 workpiece:153 OK 
+395 pin 775 Correct curve
+375 raw 775 Sharpen complete
+349 workpiece:13175 OK 
+396 pin 559 Correct curve
+376 raw 559 Sharpen complete
+350 workpiece:9503 OK 
+397 pin 791 Correct curve
+377 raw 791 Sharpen complete
+351 workpiece:13447 OK 
+398 pin 935 Incorrect curve
+352 workpiece:10081 OK 
+399 pin 928 Correct curve
+378 raw 928 Sharpen complete
+353 workpiece:15776 OK 
+400 pin 104 Correct curve
+379 raw 104 Sharpen complete
+401 pin 110 Correct curve
+380 raw 110 Sharpen complete
+354 workpiece:1870 OK 
+402 pin 743 Correct curve
+381 raw 743 Sharpen complete
+355 workpiece:12631 OK 
+403 pin 417 Correct curve
+382 raw 417 Sharpen complete
+356 workpiece:7089 OK 
+404 pin 743 Correct curve
+383 raw 743 Sharpen complete
+357 workpiece:12631 OK 
+405 pin 231 Correct curve
+384 raw 231 Sharpen complete
+358 workpiece:3927 OK 
+406 pin 918 Incorrect curve
+359 workpiece:1768 OK 
+407 pin 759 Correct curve
+385 raw 759 Sharpen complete
+360 workpiece:8349 Incorrect sharpen
+408 pin 813 Correct curve
+386 raw 813 Sharpen complete
+361 workpiece:8943 Incorrect sharpen
+409 pin 173 Correct curve
+387 raw 173 Sharpen complete
+410 pin 689 Correct curve
+388 raw 689 Sharpen complete
+362 workpiece:11713 OK 
+411 pin 789 Correct curve
+389 raw 789 Sharpen complete
+363 workpiece:13413 OK 
+412 pin 97 Correct curve
+390 raw 97 Sharpen complete
+364 workpiece:1649 OK 
+413 pin 839 Correct curve
+391 raw 839 Sharpen complete
+365 workpiece:14263 OK 
+414 pin 283 Correct curve
+392 raw 283 Sharpen complete
+366 workpiece:4811 OK 
+415 pin 169 Correct curve
+393 raw 169 Sharpen complete
+367 workpiece:2873 OK 
+416 pin 231 Correct curve
+394 raw 231 Sharpen complete
+368 workpiece:3927 OK 
+417 pin 501 Correct curve
+395 raw 501 Sharpen complete
+418 pin 268 Correct curve
+369 workpiece:8517 OK 
+396 raw 268 Sharpen complete
+419 pin 601 Correct curve
+397 raw 601 Sharpen complete
+370 workpiece:10217 OK 
+420 pin 403 Correct curve
+398 raw 403 Sharpen complete
+371 workpiece:6851 OK 
+421 pin 586 Correct curve
+399 raw 586 Sharpen complete
+372 workpiece:9962 OK 
+422 pin 840 Correct curve
+400 raw 840 Sharpen complete
+373 workpiece:14280 OK 
+423 pin 658 Correct curve
+401 raw 658 Sharpen complete
+374 workpiece:11186 OK 
+424 pin 339 Correct curve
+402 raw 339 Sharpen complete
+375 workpiece:5763 OK 
+425 pin 289 Incorrect curve
+426 pin 28 Correct curve
+403 raw 28 Sharpen complete
+376 workpiece:476 OK 
+427 pin 78 Correct curve
+404 raw 78 Sharpen complete
+377 workpiece:1326 OK 
+428 pin 814 Correct curve
+405 raw 814 Sharpen complete
+378 workpiece:13838 OK 
+429 pin 684 Correct curve
+406 raw 684 Sharpen complete
+379 workpiece:11628 OK 
+430 pin 414 Correct curve
+407 raw 414 Sharpen complete
+380 workpiece:7038 OK 
+431 pin 224 Correct curve
+408 raw 224 Sharpen complete
+381 workpiece:3808 OK 
+432 pin 394 Correct curve
+409 raw 394 Sharpen complete
+382 workpiece:6698 OK 
+433 pin 305 Correct curve
+410 raw 305 Sharpen complete
+434 pin 370 Correct curve
+383 workpiece:5185 OK 
+411 raw 370 Sharpen complete
+435 pin 532 Correct curve
+412 raw 532 Sharpen complete
+384 workpiece:9044 OK 
+436 pin 369 Correct curve
+413 raw 369 Sharpen complete
+385 workpiece:6273 OK 
+437 pin 663 Incorrect curve
+386 workpiece:6290 OK 
+438 pin 279 Correct curve
+414 raw 279 Sharpen complete
+387 workpiece:4743 OK 
+439 pin 361 Correct curve
+415 raw 361 Sharpen complete
+388 workpiece:6137 OK 
+440 pin 947 Correct curve
+389 workpiece:2948 Incorrect sharpen
+416 raw 947 Sharpen complete
+390 workpiece:10417 Incorrect sharpen
+441 pin 472 Correct curve
+417 raw 472 Sharpen complete
+442 pin 729 Correct curve
+418 raw 729 Sharpen complete
+391 workpiece:12393 OK 
+443 pin 19 Correct curve
+419 raw 19 Sharpen complete
+392 workpiece:323 OK 
+444 pin 355 Correct curve
+420 raw 355 Sharpen complete
+393 workpiece:6035 OK 
+445 pin 258 Correct curve
+421 raw 258 Sharpen complete
+394 workpiece:4386 OK 
+446 pin 563 Correct curve
+422 raw 563 Sharpen complete
+395 workpiece:9571 OK 
+447 pin 338 Correct curve
+423 raw 338 Sharpen complete
+396 workpiece:5746 OK 
+448 pin 816 Incorrect curve
+397 workpiece:8024 OK 
+449 pin 440 Correct curve
+424 raw 440 Sharpen complete
+450 pin 747 Correct curve
+425 raw 747 Sharpen complete
+398 workpiece:8217 Incorrect sharpen
+451 pin 991 Correct curve
+426 raw 991 Sharpen complete
+399 workpiece:16847 OK 
+452 pin 535 Correct curve
+427 raw 535 Sharpen complete
+400 workpiece:9095 OK 
+453 pin 85 Incorrect curve
+401 workpiece:7480 OK 
+454 pin 198 Correct curve
+428 raw 198 Sharpen complete
+402 workpiece:3366 OK 
+455 pin 379 Correct curve
+429 raw 379 Sharpen complete
+403 workpiece:6443 OK 
+456 pin 632 Correct curve
+430 raw 632 Sharpen complete
+404 workpiece:10744 OK 
+457 pin 612 Incorrect curve
+405 workpiece:2941 OK 
+458 pin 104 Correct curve
+431 raw 104 Sharpen complete
+459 pin 693 Correct curve
+432 raw 693 Sharpen complete
+406 workpiece:11781 OK 
+460 pin 637 Correct curve
+433 raw 637 Sharpen complete
+407 workpiece:10829 OK 
+461 pin 0 Incorrect curve
+408 workpiece:1768 OK 
+462 pin 787 Correct curve
+434 raw 787 Sharpen complete
+409 workpiece:13379 OK 
+463 pin 115 Correct curve
+435 raw 115 Sharpen complete
+410 workpiece:1265 Incorrect sharpen
+464 pin 651 Correct curve
+436 raw 651 Sharpen complete
+411 workpiece:11067 OK 
+465 pin 70 Correct curve
+437 raw 70 Sharpen complete
+412 workpiece:770 Incorrect sharpen
+466 pin 893 Correct curve
+438 raw 893 Sharpen complete
+467 pin 919 Correct curve
+439 raw 919 Sharpen complete
+413 workpiece:15623 OK 
+468 pin 439 Correct curve
+440 raw 439 Sharpen complete
+414 workpiece:4829 Incorrect sharpen
+469 pin 590 Correct curve
+441 raw 590 Sharpen complete
+415 workpiece:10030 OK 
+470 pin 635 Correct curve
+442 raw 635 Sharpen complete
+416 workpiece:10795 OK 
+471 pin 198 Correct curve
+443 raw 198 Sharpen complete
+417 workpiece:3366 OK 
+472 pin 52 Correct curve
+444 raw 52 Sharpen complete
+473 pin 44 Correct curve
+445 raw 44 Sharpen complete
+418 workpiece:748 OK 
+474 pin 286 Correct curve
+446 raw 286 Sharpen complete
+419 workpiece:4862 OK 
+475 pin 61 Correct curve
+447 raw 61 Sharpen complete
+420 workpiece:1037 OK 
+476 pin 652 Correct curve
+448 raw 652 Sharpen complete
+477 pin 283 Correct curve
+421 workpiece:7172 Incorrect sharpen
+449 raw 283 Sharpen complete
+478 pin 910 Correct curve
+450 raw 910 Sharpen complete
+422 workpiece:15470 OK 
+479 pin 141 Correct curve
+451 raw 141 Sharpen complete
+423 workpiece:2397 OK 
+480 pin 204 Incorrect curve
+424 workpiece:4811 OK 
+481 pin 564 Correct curve
+452 raw 564 Sharpen complete
+425 workpiece:9588 OK 
+482 pin 97 Correct curve
+453 raw 97 Sharpen complete
+426 workpiece:1649 OK 
+483 pin 652 Correct curve
+454 raw 652 Sharpen complete
+427 workpiece:11084 OK 
+484 pin 451 Correct curve
+455 raw 451 Sharpen complete
+428 workpiece:7667 OK 
+485 pin 743 Correct curve
+456 raw 743 Sharpen complete
+429 workpiece:12631 OK 
+486 pin 189 Correct curve
+457 raw 189 Sharpen complete
+487 pin 504 Correct curve
+430 workpiece:3213 OK 
+458 raw 504 Sharpen complete
+488 pin 289 Incorrect curve
+431 workpiece:8568 OK 
+489 pin 686 Correct curve
+459 raw 686 Sharpen complete
+432 workpiece:11662 OK 
+490 pin 305 Correct curve
+460 raw 305 Sharpen complete
+433 workpiece:5185 OK 
+491 pin 966 Correct curve
+461 raw 966 Sharpen complete
+434 workpiece:16422 OK 
+492 pin 255 Incorrect curve
+435 workpiece:572 Incorrect sharpen
+493 pin 618 Correct curve
+462 raw 618 Sharpen complete
+436 workpiece:10506 OK 
+494 pin 890 Correct curve
+463 raw 890 Sharpen complete
+437 workpiece:15130 OK 
+495 pin 309 Correct curve
+464 raw 309 Sharpen complete
+496 pin 550 Correct curve
+465 raw 550 Sharpen complete
+438 workpiece:9350 OK 
+497 pin 845 Correct curve
+466 raw 845 Sharpen complete
+439 workpiece:14365 OK 
+498 pin 308 Correct curve
+467 raw 308 Sharpen complete
+440 workpiece:5236 OK 
+499 pin 126 Correct curve
+468 raw 126 Sharpen complete
+441 workpiece:2142 OK 
+500 pin -1 Correct curve
+469 raw -1 Sharpen complete
+
+ Количество нормальных заготовок: 470
+
+ Количество заточеных булавок: 422
+
+ Количество хороших булавок: 395
