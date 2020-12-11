@@ -1,0 +1,4510 @@
+0 wait for the call
+1 call 0
+	The call was successful
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+2 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+1 wait for the call
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 1
+	The call was successful
+2 wait for the call
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+1 wait for the call
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+0 wait for the call
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+2 wait for the call
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+1 talk to 2
+2 listen 1
+1 listen 2
+0 wait for the call
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 0
+	The call was successful
+2 talk to 0
+0 listen 2
+1 wait for the call
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 1
+	The call was successful
+0 talk to 1
+1 listen 0
+0 listen 1
+2 wait for the call
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+0 wait for the call
+1 talk to 2
+2 listen 1
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+0 listen 2
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+2 talk to 1
+1 listen 2
+2 listen 1
+1 talk to 2
+0 wait for the call
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+2 wait for the call
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+1 listen 0
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 2
+	The call was successful
+1 talk to 2
+1 listen 2
+2 listen 1
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+0 listen 2
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+2 wait for the call
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+0 wait for the call
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+1 listen 2
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+2 wait for the call
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+1 wait for the call
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 2
+	The call was successful
+1 talk to 2
+1 listen 2
+2 listen 1
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+2 wait for the call
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+1 wait for the call
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+2 wait for the call
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+0 wait for the call
+1 talk to 2
+1 listen 2
+2 listen 1
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+1 wait for the call
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+1 wait for the call
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 1
+	The call was successful
+2 wait for the call
+0 talk to 1
+1 listen 0
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 0
+	The call was successful
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 2
+	The call was successful
+1 talk to 2
+1 listen 2
+2 listen 1
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 2
+	The call was successful
+1 talk to 2
+2 listen 1
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 0
+	The call was successful
+1 wait for the call
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+2 wait for the call
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+0 wait for the call
+1 talk to 2
+1 listen 2
+2 listen 1
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 2
+	The call was successful
+1 talk to 2
+1 listen 2
+2 listen 1
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+1 listen 0
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+0 wait for the call
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+1 wait for the call
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+2 listen 0
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+0 wait for the call
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+2 wait for the call
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+1 wait for the call
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+2 wait for the call
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+0 talk to 1
+1 listen 0
+1 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+2 listen 0
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+1 listen 0
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+1 talk to 2
+1 listen 2
+0 wait for the call
+2 listen 1
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 0
+	The call was successful
+1 wait for the call
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 1
+	The call was successful
+2 wait for the call
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+0 listen 1
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+1 listen 0
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+1 talk to 2
+1 listen 2
+0 wait for the call
+2 listen 1
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+1 wait for the call
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+2 wait for the call
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+1 talk to 2
+1 listen 2
+2 listen 1
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+0 wait for the call
+2 talk to 1
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+1 wait for the call
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 1
+	The call was successful
+2 wait for the call
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+1 wait for the call
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+1 listen 2
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+2 wait for the call
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 1
+	The call was successful
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+2 wait for the call
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+1 listen 0
+1 wait for the call
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+0 wait for the call
+1 talk to 2
+1 listen 2
+2 listen 1
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 0
+	The call was successful
+1 wait for the call
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+1 talk to 2
+1 listen 2
+0 wait for the call
+2 listen 1
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+2 wait for the call
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+1 wait for the call
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+0 wait for the call
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+2 wait for the call
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+2 listen 0
+0 listen 2
+1 wait for the call
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+2 wait for the call
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+0 wait for the call
+2 talk to 1
+1 listen 2
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+1 wait for the call
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+0 listen 1
+1 talk to 0
+1 listen 0
+2 wait for the call
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+2 listen 0
+1 wait for the call
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+2 talk to 1
+0 wait for the call
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+1 talk to 0
+0 listen 1
+2 wait for the call
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+1 talk to 2
+2 listen 1
+1 listen 2
+2 talk to 1
+2 listen 1
+0 wait for the call
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+2 listen 0
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+0 wait for the call
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+1 talk to 0
+0 listen 1
+1 listen 0
+2 wait for the call
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+0 wait for the call
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+2 listen 0
+1 wait for the call
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+2 wait for the call
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+1 wait for the call
+2 listen 0
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+0 wait for the call
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+2 wait for the call
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+1 wait for the call
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+2 wait for the call
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+2 wait for the call
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+1 talk to 2
+2 listen 1
+1 listen 2
+0 wait for the call
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+2 listen 0
+2 talk to 0
+2 listen 0
+1 wait for the call
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+2 wait for the call
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+0 wait for the call
+1 talk to 2
+2 listen 1
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+2 wait for the call
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+1 talk to 2
+1 listen 2
+0 wait for the call
+2 listen 1
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 1
+	The call was successful
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+2 wait for the call
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+1 wait for the call
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+2 talk to 1
+0 wait for the call
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+1 wait for the call
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+0 wait for the call
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+1 wait for the call
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+0 wait for the call
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+2 wait for the call
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+1 wait for the call
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+0 wait for the call
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+2 wait for the call
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 2
+	The call was successful
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 0
+	The call was successful
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 1
+	The call was successful
+2 wait for the call
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+1 talk to 2
+0 wait for the call
+1 listen 2
+2 listen 1
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+1 talk to 0
+0 listen 1
+1 listen 0
+2 wait for the call
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 0
+	The call was successful
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 2
+	The call was successful
+1 talk to 2
+1 listen 2
+2 listen 1
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 2
+	The call was successful
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+0 wait for the call
+2 talk to 1
+1 listen 2
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+1 wait for the call
+2 listen 0
+2 talk to 0
+0 listen 2
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+0 wait for the call
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 2
+	The call was successful
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+2 wait for the call
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+1 wait for the call
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+0 wait for the call
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 2
+	The call was successful
+1 talk to 2
+1 listen 2
+2 listen 1
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+1 wait for the call
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 1
+	The call was successful
+2 wait for the call
+0 talk to 1
+1 listen 0
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+2 listen 0
+1 wait for the call
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+0 wait for the call
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 2
+	The call was successful
+1 talk to 2
+1 listen 2
+2 listen 1
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 0
+	The call was successful
+2 talk to 0
+0 listen 2
+1 wait for the call
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 1
+	The call was successful
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+1 wait for the call
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+1 listen 0
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 2
+	The call was successful
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 0
+	The call was successful
+1 wait for the call
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+0 wait for the call
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+2 wait for the call
+1 talk to 0
+0 listen 1
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+1 talk to 2
+1 listen 2
+2 listen 1
+2 talk to 1
+2 listen 1
+0 wait for the call
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 0
+	The call was successful
+1 wait for the call
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 1
+	The call was successful
+2 wait for the call
+0 talk to 1
+1 listen 0
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+1 talk to 2
+1 listen 2
+0 wait for the call
+2 listen 1
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 1
+	The call was successful
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+2 wait for the call
+0 talk to 1
+1 listen 0
+1 wait for the call
+0 call 2
+	The call was successful
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+0 wait for the call
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+1 wait for the call
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+2 talk to 1
+0 wait for the call
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+2 wait for the call
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+1 wait for the call
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+0 wait for the call
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+2 wait for the call
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+0 listen 1
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+0 wait for the call
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+2 wait for the call
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+1 wait for the call
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+0 wait for the call
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+2 wait for the call
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+1 wait for the call
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 1
+	The call was successful
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 2
+	The call was successful
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 1
+	The call was successful
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+2 wait for the call
+1 talk to 0
+0 listen 1
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+1 wait for the call
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+0 wait for the call
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+2 wait for the call
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 2
+	The call was successful
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+2 wait for the call
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 2
+	The call was successful
+1 talk to 2
+2 listen 1
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+1 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+1 listen 2
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+2 wait for the call
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 0
+	The call was successful
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+1 wait for the call
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+0 wait for the call
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 2
+	The call was successful
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 0
+	The call was successful
+1 wait for the call
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+2 wait for the call
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+1 talk to 2
+2 listen 1
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+0 wait for the call
+2 talk to 1
+2 call 0
+	The call was successful
+1 wait for the call
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 2
+	The call was successful
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+0 wait for the call
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 2
+	The call was successful
+1 talk to 2
+1 listen 2
+2 listen 1
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+1 wait for the call
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+2 wait for the call
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+1 listen 0
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+1 talk to 2
+0 wait for the call
+2 listen 1
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+0 wait for the call
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 2
+	The call was successful
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 0
+	The call was successful
+1 wait for the call
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+1 talk to 2
+1 listen 2
+0 wait for the call
+2 listen 1
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 0
+	The call was successful
+1 wait for the call
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 1
+	The call was successful
+2 wait for the call
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+1 talk to 2
+1 listen 2
+0 wait for the call
+2 listen 1
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 1
+	The call was successful
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+2 wait for the call
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+2 listen 0
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+0 wait for the call
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 2
+	The call was successful
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 0
+	The call was successful
+1 wait for the call
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+1 talk to 2
+1 listen 2
+0 wait for the call
+2 listen 1
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+1 listen 2
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+2 wait for the call
+1 talk to 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+0 wait for the call
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+2 wait for the call
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 2
+	The call was successful
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 0
+	The call was successful
+1 wait for the call
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 2
+	The call was successful
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+1 listen 2
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+1 wait for the call
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+1 listen 2
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+1 talk to 2
+1 listen 2
+2 listen 1
+2 talk to 1
+0 wait for the call
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+0 wait for the call
+1 talk to 2
+2 listen 1
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+2 wait for the call
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+1 wait for the call
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+1 wait for the call
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+2 wait for the call
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+0 wait for the call
+1 talk to 2
+2 listen 1
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+1 wait for the call
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+0 wait for the call
+2 talk to 1
+1 listen 2
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+2 wait for the call
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+1 wait for the call
+0 talk to 2
+2 listen 0
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+0 wait for the call
+2 talk to 1
+1 listen 2
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+1 wait for the call
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 0
+	The call was successful
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+0 wait for the call
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 2
+	The call was successful
+1 talk to 2
+1 listen 2
+2 listen 1
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 2
+	The call was successful
+0 wait for the call
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 1
+	The call was successful
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+2 listen 0
+0 listen 2
+1 wait for the call
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+0 wait for the call
+2 talk to 1
+1 listen 2
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+2 wait for the call
+1 talk to 0
+0 listen 1
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+1 wait for the call
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+0 wait for the call
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 2
+	The call was successful
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+0 wait for the call
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+2 wait for the call
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 2
+	The call was successful
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+0 wait for the call
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+0 listen 1
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+0 listen 1
+1 listen 0
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+1 wait for the call
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 1
+	The call was successful
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 0
+	The call was successful
+2 wait for the call
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+1 wait for the call
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+1 wait for the call
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 0
+	The call was successful
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 2
+	The call was successful
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+0 talk to 2
+1 wait for the call
+2 listen 0
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+0 wait for the call
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+0 listen 1
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 2
+	The call was successful
+1 wait for the call
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 0
+	The call failed
+0 wait for the call
+2 call 1
+	The call was successful
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
+1 call 0
+	The call was successful
+1 talk to 0
+1 listen 0
+0 listen 1
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 call 1
+	The call failed
+1 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+1 listen 0
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 2
+	The call was successful
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 0
+	The call was successful
+1 wait for the call
+2 talk to 0
+0 listen 2
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 1
+	The call was successful
+0 talk to 1
+1 listen 0
+0 listen 1
+1 talk to 0
+1 listen 0
+0 talk to 1
+0 listen 1
+1 talk to 0
+1 call 0
+	The call failed
+0 wait for the call
+1 call 2
+	The call was successful
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 call 1
+	The call failed
+1 wait for the call
+2 call 0
+	The call was successful
+2 talk to 0
+2 listen 0
+0 listen 2
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 call 2
+	The call failed
+2 wait for the call
+0 call 2
+	The call was successful
+0 talk to 2
+0 listen 2
+2 listen 0
+2 talk to 0
+2 listen 0
+0 talk to 2
+0 listen 2
+2 talk to 0
+2 call 1
+	The call was successful
+0 wait for the call
+2 talk to 1
+2 listen 1
+1 listen 2
+1 talk to 2
+1 listen 2
+2 talk to 1
+2 listen 1
+1 talk to 2
+1 call 2
+	The call failed
+2 wait for the call
